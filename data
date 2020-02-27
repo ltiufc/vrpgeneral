@@ -1,0 +1,255 @@
+{ 
+  "params": {
+    "operation": {
+      "start": 8,
+      "end": 18,
+      "startSaturday": 8,
+      "endSaturday": 12
+    },
+    "lunch": {
+      "start": 12,
+      "end": 13,
+      "delay": 0.5,
+      "anticipation": 0.5
+    },
+    "returnDC": false,
+    "useTW": true,
+    "useOvernight": true,
+    "startDC": false,
+    "loadVelocity": 2000,
+    "planningHorizon": 1,
+    "clientCode": 123,
+    "type": "IF",
+    "dc": {
+      "id": 1,
+      "x": -39.273141,
+      "y": -7.299976
+    },
+    "radiusMax": 100,
+    "pathEuclidians": false,
+    "sectorsSweep": 2,
+    "worksOnSaturday": false,
+    "routerProblem": "PLANNER_GROUP_ROUT",
+    "mapCode": 345,
+    "XXXXzones": null,
+    "XXXXcrews": null
+  },
+  "places": [
+    {
+      "id": 2147000019,
+      "x": -38.9877815246582,
+      "y": -7.370840549468994,
+      "kind": ["crossdocking"],
+      "compatible": [
+        "bitrain",
+        "truck"
+      ],
+      "seqence": 2,
+      "averageValue": 102.15,
+      "averageWeight": 15.672087,
+      "averageTime": 6.0,
+      "positivation": 33.33,
+      "priority": false,
+      "vehicleFixed": "105",
+      "frequency": 1,
+      "daysFixed": "NNNNNNN",
+      "weeksFixed": "XXXXX"
+    },
+    {
+      "id": 2147000020,
+      "x": -38.9877815246582,
+      "y": -7.370840549468994,
+      "kind": ["crossdocking","almoco"],
+      "compatible": [
+        "bitrain",
+        "truck"
+      ],
+      "seqence": null,
+      "averageValue": 102.15,
+      "averageWeight": 15.672087,
+      "averageTime": 6.0,
+      "positivation": 33.33,
+      "priority": false,
+      "vehicleFixed": "105",
+      "frequency": 1,
+      "daysFixed": "NNNNNNN",
+      "weeksFixed": "XXXXX"
+    },
+    {
+      "id": 2147000021,
+      "x": -38.9877815246582,
+      "y": -7.370840549468994,
+      "kind": "crossdocking",
+      "compatible": [
+        "all"
+      ],
+      "seqence": null,
+      "averageValue": 102.15,
+      "averageWeight": 15.672087,
+      "averageTime": 6.0,
+      "positivation": 33.33,
+      "priority": false,
+      "vehicleFixed": "105",
+      "frequency": 1,
+      "daysFixed": "NNNNNNN",
+      "weeksFixed": "XXXXX"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "PNM8575",
+      "kind": "truck",
+      "dc": 2147000021,
+      "limits": [
+        11300,
+        12,
+        45,
+        54,
+        0
+      ]
+    },
+    {
+      "id": "PNM8576",
+      "kind": "truck",
+      "dc": 2147000021,
+      "limits": [
+        11300,
+        12,
+        45,
+        54,
+        0
+      ]
+    },
+    {
+      "id": "PNM8577",
+      "kind": "truck",
+      "dc": null,
+      "limits": [
+        11300,
+        12,
+        45,
+        54,
+        0
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "from": 2147000019,
+      "to": 2147000020,
+      "compatible": null,
+      "totals": [
+        150,
+        0.08333333333333333,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "from": 2147000021,
+      "to": 2147000020,
+      "compatible": null,
+      "totals": [
+        150,
+        0.08333333333333333,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "from": 2147000019,
+      "to": 2147000020,
+      "compatible": null,
+      "totals": [
+        150,
+        0.08333333333333333,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "from": 2147000019,
+      "to": 2147000020,
+      "compatible": null,
+      "totals": [
+        150,
+        0.08333333333333333,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 5,
+      "from": 2147000019,
+      "to": 2147000020,
+      "compatible": null,
+      "totals": [
+        150,
+        0.08333333333333333,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 6,
+      "from": 2147000019,
+      "to": 2147000020,
+      "compatible": null,
+      "totals": [
+        150,
+        0.08333333333333333,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 7,
+      "from": 2147000019,
+      "to": 2147000020,
+      "compatible": null,
+      "totals": [
+        150,
+        0.08333333333333333,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 8,
+      "from": 2147000019,
+      "to": 2147000020,
+      "compatible": null,
+      "totals": [
+        150,
+        0.08333333333333333,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 9,
+      "from": 2147000019,
+      "to": 2147000021,
+      "compatible": null,
+      "totals": [
+        150,
+        0.08333333333333333,
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
