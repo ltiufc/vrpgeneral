@@ -8,13 +8,13 @@ public class Orders {
 	private int from;
 	private int to;
 	private ArrayList<String> compatible = new ArrayList<String>();
-	private int[] totals = new int[5];
+	private double[] totals = new double[5];
 
 	public Orders() {
 		super();
 	}
 	
-	public Orders(int id, int from, int to, ArrayList<String> compatible, int[] totals) {
+	public Orders(int id, int from, int to, ArrayList<String> compatible, double[] totals) {
 		super();
 		setId(id);
 		setFrom(from);
@@ -56,11 +56,11 @@ public class Orders {
 		this.compatible = compatible;
 	}
 
-	public int[] getTotals() {
+	public double[] getTotals() {
 		return totals;
 	}
 
-	public void setTotals(int[] totals) {
+	public void setTotals(double[] totals) {
 		this.totals = totals;
 	}
 

@@ -2,7 +2,7 @@ package model;
 
 public class Vehicles {
 
-	private int id;
+	private String id;
 	private String kind;
 	private int dc;
 	private int[] limits = new int[5];
@@ -11,7 +11,7 @@ public class Vehicles {
 		super();
 	}
 
-	public Vehicles(int id, String kind, int dc, int[] limits) {
+	public Vehicles(String id, String kind, int dc, int[] limits) {
 		super();
 		setId(id);
 		setKind(kind);
@@ -20,11 +20,11 @@ public class Vehicles {
 
 	}
 
-	public int getId() {
+	public String getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(String id) {
 		this.id = id;
 	}
 
