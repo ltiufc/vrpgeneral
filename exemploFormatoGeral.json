@@ -79,7 +79,7 @@
       "id": 2147000021,
       "x": -38.9877815246582,
       "y": -7.370840549468994,
-      "kind": "crossdocking",
+      "kind": ["crossdocking"],
       "compatible": [
         "all"
       ],
