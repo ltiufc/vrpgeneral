@@ -13,6 +13,9 @@ public class Places {
 	private double averageValue;
 	private double averageWeight;
 	private double averageTime;
+	private double averageVolume;
+	private double averageCubage;
+	private double averageUnities;
 	private double positivation;
 	private boolean priority;
 	private String vehicleFixed;
