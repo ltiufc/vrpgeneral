@@ -28,8 +28,9 @@ public class Places {
 	}
 
 	public Places(int id, double x, double y, ArrayList<String> kind, ArrayList<String> compatible, int seqence,
-			double averageValue, double averageWeight, double averageTime, double positivation, boolean priority,
-			String vehicleFixed, int frequency, String daysFixed, String weeksFixed) {
+			double averageValue, double averageWeight, double averageTime, double averageVolume, double averageCubage,
+			double averageUnities, double positivation, boolean priority, String vehicleFixed, int frequency,
+			String daysFixed, String weeksFixed) {
 		super();
 		setId(id);
 		setX(x);
@@ -40,6 +41,9 @@ public class Places {
 		setAverageValue(averageValue);
 		setAverageWeight(averageWeight);
 		setAverageTime(averageTime);
+		setAverageVolume(averageVolume);
+		setAverageCubage(averageCubage);
+		setAverageUnities(averageUnities);
 		setPositivation(positivation);
 		setPriority(priority);
 		setVehicleFixed(vehicleFixed);
@@ -119,6 +123,30 @@ public class Places {
 
 	public void setAverageTime(double averageTime) {
 		this.averageTime = averageTime;
+	}
+
+	public double getAverageVolume() {
+		return averageVolume;
+	}
+
+	public void setAverageVolume(double averageVolume) {
+		this.averageVolume = averageVolume;
+	}
+
+	public double getAverageCubage() {
+		return averageCubage;
+	}
+
+	public void setAverageCubage(double averageCubage) {
+		this.averageCubage = averageCubage;
+	}
+
+	public double getAverageUnities() {
+		return averageUnities;
+	}
+
+	public void setAverageUnities(double averageUnities) {
+		this.averageUnities = averageUnities;
 	}
 
 	public double getPositivation() {
