@@ -20,7 +20,7 @@ public class Generator {
 
 		Gson gson = new Gson();
 	
-		String fileName = "/home/felipelima/Documentos/Faculdade/TCC/testeSolomon.json";
+		String fileName = "/home/felipelima/Documentos/Faculdade/TCC/Instâncias/testeSolomon.json";
 		String json = String.join(" ", Files.readAllLines(Paths.get(fileName), StandardCharsets.UTF_8));
 		//Leitura do arquivo json e Transformação em Objeto.
 		instanciaGeral = new Gson().fromJson(json, InstanciaGeral.class);
@@ -30,7 +30,7 @@ public class Generator {
 		System.out.println(saidaInstanciaGeral);
 		
 		//Escrita do arquivo no formato json 
-		FileWriter arq = new FileWriter("/home/felipelima/eclipse-workspace/tccfelipe/TCCFelipe/src/main/java/data/SolomonInstanceC101.json");
+		FileWriter arq = new FileWriter("/home/felipelima/eclipse-workspace/tccfelipe/TCCFelipe/src/main/resources/data/solomon/SolomonInstanceC101.json");
 		
 		arq.write(saidaInstanciaGeral);
 		arq.close();
