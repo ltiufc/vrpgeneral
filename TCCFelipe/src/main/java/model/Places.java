@@ -8,8 +8,10 @@ public class Places {
 	private double x;
 	private double y;
 	private ArrayList<String> kind = new ArrayList<String>();
-	private ArrayList<String> compatible = new ArrayList<String>();
+	private ArrayList<String> vehicleCompatible = new ArrayList<String>();
 	private int seqence;
+	private int begin;
+	private int end;
 	private double averageValue;
 	private double averageWeight;
 	private double averageTime;
@@ -27,17 +29,19 @@ public class Places {
 		super();
 	}
 
-	public Places(int id, double x, double y, ArrayList<String> kind, ArrayList<String> compatible, int seqence,
-			double averageValue, double averageWeight, double averageTime, double averageVolume, double averageCubage,
-			double averageUnities, double positivation, boolean priority, String vehicleFixed, int frequency,
-			String daysFixed, String weeksFixed) {
+	public Places(int id, double x, double y, ArrayList<String> kind, ArrayList<String> vehicleCompatible, int seqence,
+			int begin, int end, double averageValue, double averageWeight, double averageTime, double averageVolume,
+			double averageCubage, double averageUnities, double positivation, boolean priority, String vehicleFixed,
+			int frequency, String daysFixed, String weeksFixed) {
 		super();
 		setId(id);
 		setX(x);
 		setY(y);
 		setKind(kind);
-		setCompatible(compatible);
+		setVehicleCompatible(vehicleCompatible);
 		setSeqence(seqence);
+		setBegin(begin);
+		setEnd(end);
 		setAverageValue(averageValue);
 		setAverageWeight(averageWeight);
 		setAverageTime(averageTime);
@@ -85,12 +89,12 @@ public class Places {
 		this.kind = kind;
 	}
 
-	public ArrayList<String> getCompatible() {
-		return compatible;
+	public ArrayList<String> getVehicleCompatible() {
+		return vehicleCompatible;
 	}
 
-	public void setCompatible(ArrayList<String> compatible) {
-		this.compatible = compatible;
+	public void setVehicleCompatible(ArrayList<String> vehicleCompatiblee) {
+		this.vehicleCompatible = vehicleCompatible;
 	}
 
 	public int getSeqence() {
@@ -99,6 +103,22 @@ public class Places {
 
 	public void setSeqence(int seqence) {
 		this.seqence = seqence;
+	}
+
+	public int getBegin() {
+		return begin;
+	}
+
+	public void setBegin(int begin) {
+		this.begin = begin;
+	}
+
+	public int getEnd() {
+		return end;
+	}
+
+	public void setEnd(int end) {
+		this.end = end;
 	}
 
 	public double getAverageValue() {

@@ -7,19 +7,19 @@ public class Orders {
 	private int id;
 	private int from;
 	private int to;
-	private ArrayList<String> compatible = new ArrayList<String>();
+	private ArrayList<String> vehicleCompatible = new ArrayList<String>();
 	private double[] totals = new double[5];
 
 	public Orders() {
 		super();
 	}
 	
-	public Orders(int id, int from, int to, ArrayList<String> compatible, double[] totals) {
+	public Orders(int id, int from, int to, ArrayList<String> vehicleCompatible, double[] totals) {
 		super();
 		setId(id);
 		setFrom(from);
 		setTo(to);
-		setCompatible(compatible);
+		setVehicleCompatible(vehicleCompatible);
 		setTotals(totals);
 
 	}
@@ -48,12 +48,12 @@ public class Orders {
 		this.to = to;
 	}
 
-	public ArrayList<String> getCompatible() {
-		return compatible;
+	public ArrayList<String> getVehicleCompatible() {
+		return vehicleCompatible;
 	}
 
-	public void setCompatible(ArrayList<String> compatible) {
-		this.compatible = compatible;
+	public void setVehicleCompatible(ArrayList<String> vehicleCompatible) {
+		this.vehicleCompatible = vehicleCompatible;
 	}
 
 	public double[] getTotals() {
