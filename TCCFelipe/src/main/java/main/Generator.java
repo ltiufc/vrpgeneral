@@ -30,7 +30,7 @@ public class Generator {
 		System.out.println(saidaInstanciaGeral);
 		
 		//Escrita do arquivo no formato json 
-		FileWriter arq = new FileWriter("/home/felipelima/eclipse-workspace/tccfelipe/TCCFelipe/src/main/resources/data/solomon/SolomonInstanceC101.json");
+		FileWriter arq = new FileWriter("/home/felipelima/eclipse-workspace/tccfelipe/TCCFelipe/src/main/resources/data/solomon/SolomonInstanceRC105.json");
 		
 		arq.write(saidaInstanciaGeral);
 		arq.close();
