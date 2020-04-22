@@ -1,0 +1,59 @@
+{
+  "parameters": {
+    "lunchTime": {
+      "start": "2020-01-01T12:00:10",
+      "end": "2020-01-01T14:00:00"
+    },
+    "isOpenRoute": true,
+    "useTimeWindows": true,
+    "isMultiPeriod": true
+  },
+  "places": [
+    {
+      "id": 0,
+      "latitude": 0,
+      "longitude": 0,
+      "type": [
+        "string"
+      ]
+
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "0",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 0,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    }
+  ],
+  "orders": [
+    {
+      "id": 0,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatibility": [
+        "string"
+      ],
+
+      "monetaryValue": 0,
+      "weight": 0,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+		"string"
+	]	
+      }
+    }
+  ]
+}

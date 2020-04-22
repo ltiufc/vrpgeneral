@@ -58,7 +58,7 @@ public class Generator {
 		 */
 
 		Gson gson = new Gson();
-		String fileName = "/home/felipelima/Documentos/Faculdade/TCC/Instâncias/testeSolomon.json";
+		String fileName = "/home/felipelima/eclipse-workspace/tccfelipe/src/main/resources/data/testeSolomon.json";
 		String json = String.join(" ", Files.readAllLines(Paths.get(fileName), StandardCharsets.UTF_8));
 		System.out.println(json);
 
@@ -72,7 +72,8 @@ public class Generator {
 		// FileWriter arq = new
 		// FileWriter("/home/felipelima/eclipse-workspace/tccfelipe/TCCFelipe/src/main/resources/data/solomon/SolomonInstanceRC105.json");
 		FileWriter arq = new FileWriter(
-				"/home/felipelima/Documentos/Faculdade/TCC/Instâncias/testeEscritaSolomon.json");
+				"/home/felipelima/eclipse-workspace/tccfelipe/src/main/resources/data/testeEscritaSolomon.json");
+		
 
 		arq.write(saidaInstanciaGeral);
 		arq.close();
