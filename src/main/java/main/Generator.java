@@ -35,23 +35,29 @@ public class Generator {
 		// Gson gson = new GsonBuilder().setDateFormat("yyyy-MM-dd HH:mm:ss").create();
 		// Gson gson = new GsonBuilder().enableComplexMapKeySerialization().create();
 
-		/*Gson gson = new GsonBuilder().registerTypeAdapter(LocalDateTime.class, new JsonDeserializer<LocalDateTime>() {
-			@Override
-			public LocalDateTime deserialize(JsonElement json, java.lang.reflect.Type typeOfT,
-					JsonDeserializationContext context) throws JsonParseException {
-				Instant instant = Instant.ofEpochMilli(json.getAsJsonPrimitive().getAsLong());
-				return LocalDateTime.ofInstant(instant, ZoneId.systemDefault());
-			}
-		}).create();*/
-		GsonBuilder gsonBuilder = new GsonBuilder();
+		/*
+		 * Gson gson = new GsonBuilder().registerTypeAdapter(LocalDateTime.class, new
+		 * JsonDeserializer<LocalDateTime>() {
+		 * 
+		 * @Override public LocalDateTime deserialize(JsonElement json,
+		 * java.lang.reflect.Type typeOfT, JsonDeserializationContext context) throws
+		 * JsonParseException { Instant instant =
+		 * Instant.ofEpochMilli(json.getAsJsonPrimitive().getAsLong()); return
+		 * LocalDateTime.ofInstant(instant, ZoneId.systemDefault()); } }).create();
+		 */
+		/*
+		 * GsonBuilder gsonBuilder = new GsonBuilder();
+		 * 
+		 * gsonBuilder.registerTypeAdapter(LocalDateTime.class, new
+		 * LocalDateTimeSerializer());
+		 * 
+		 * gsonBuilder.registerTypeAdapter(LocalDateTime.class, new
+		 * LocalDateTimeDeserializer());
+		 * 
+		 * Gson gson = gsonBuilder.setPrettyPrinting().create();
+		 */
 
-		gsonBuilder.registerTypeAdapter(LocalDateTime.class, new LocalDateTimeSerializer());
-
-		gsonBuilder.registerTypeAdapter(LocalDateTime.class, new LocalDateTimeDeserializer());
-
-		Gson gson = gsonBuilder.setPrettyPrinting().create();
-		
-		// Gson gson = new Gson();
+		Gson gson = new Gson();
 		String fileName = "/home/felipelima/Documentos/Faculdade/TCC/Instâncias/testeSolomon.json";
 		String json = String.join(" ", Files.readAllLines(Paths.get(fileName), StandardCharsets.UTF_8));
 		System.out.println(json);
@@ -72,23 +78,22 @@ public class Generator {
 		arq.close();
 	}
 
-	class LocalDateTimeDeserializer implements JsonDeserializer<LocalDateTime> {
-		@Override
-		public LocalDateTime deserialize(JsonElement json, java.lang.reflect.Type typeOfT,
-				JsonDeserializationContext context) throws JsonParseException {
-			return LocalDateTime.parse(json.getAsString(),
-					DateTimeFormatter.ofPattern("dd::MMM::uuuu HH::mm::ss").withLocale(Locale.ENGLISH));
-		}
-	}
-
-	class LocalDateTimeSerializer implements JsonSerializer<LocalDateTime> {
-		private final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd::MMM::uuuu HH::mm::ss");
-
-		@Override
-		public JsonElement serialize(LocalDateTime src, java.lang.reflect.Type typeOfSrc,
-				JsonSerializationContext context) {
-			// TODO Auto-generated method stub
-			return new JsonPrimitive(formatter.format(src));
-		}
-	}
+	/*
+	 * class LocalDateTimeDeserializer implements JsonDeserializer<LocalDateTime> {
+	 * 
+	 * @Override public LocalDateTime deserialize(JsonElement json,
+	 * java.lang.reflect.Type typeOfT, JsonDeserializationContext context) throws
+	 * JsonParseException { return LocalDateTime.parse(json.getAsString(),
+	 * DateTimeFormatter.ofPattern("dd::MMM::uuuu HH::mm::ss").withLocale(Locale.
+	 * ENGLISH)); } }
+	 * 
+	 * class LocalDateTimeSerializer implements JsonSerializer<LocalDateTime> {
+	 * private final DateTimeFormatter formatter =
+	 * DateTimeFormatter.ofPattern("dd::MMM::uuuu HH::mm::ss");
+	 * 
+	 * @Override public JsonElement serialize(LocalDateTime src,
+	 * java.lang.reflect.Type typeOfSrc, JsonSerializationContext context) { // TODO
+	 * Auto-generated method stub return new JsonPrimitive(formatter.format(src)); }
+	 * }
+	 */
 }
