@@ -1,60 +1,41 @@
 package model;
 
+import java.time.LocalDateTime;
 import java.util.ArrayList;
+
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
 public class Places {
 
 	private int id;
-	private double x;
-	private double y;
-	private ArrayList<String> kind = new ArrayList<String>();
+	private double latitude;
+	private double longitude;
+	private ArrayList<String> type = new ArrayList<String>();
 	private ArrayList<String> vehicleCompatible = new ArrayList<String>();
-	private int seqence;
-	private int begin;
-	private int end;
-	private double averageValue;
-	private double averageWeight;
-	private double averageTime;
-	private double averageVolume;
-	private double averageCubage;
-	private double averageUnities;
-	private double positivation;
-	private boolean priority;
-	private String vehicleFixed;
-	private int frequency;
-	private String daysFixed;
-	private String weeksFixed;
+
+	// @JsonFormat(shape = JsonFormat.Shape.STRING, pattern =
+	// "yyyy-MM-dd'T'HH:mm:ss")
+	private LocalDateTime beginOperation;
+
+	// @JsonFormat(shape = JsonFormat.Shape.STRING, pattern =
+	// "yyyy-MM-dd'T'HH:mm:ss")
+	private LocalDateTime endOperation;
 
 	public Places() {
 		super();
 	}
 
-	public Places(int id, double x, double y, ArrayList<String> kind, ArrayList<String> vehicleCompatible, int seqence,
-			int begin, int end, double averageValue, double averageWeight, double averageTime, double averageVolume,
-			double averageCubage, double averageUnities, double positivation, boolean priority, String vehicleFixed,
-			int frequency, String daysFixed, String weeksFixed) {
+	public Places(int id, double latitude, double longitude, ArrayList<String> type,
+			ArrayList<String> vehicleCompatible, LocalDateTime beginOperation, LocalDateTime endOperation) {
 		super();
 		setId(id);
-		setX(x);
-		setY(y);
-		setKind(kind);
+		setLatitude(latitude);
+		setLongitude(longitude);
+		setType(type);
 		setVehicleCompatible(vehicleCompatible);
-		setSeqence(seqence);
-		setBegin(begin);
-		setEnd(end);
-		setAverageValue(averageValue);
-		setAverageWeight(averageWeight);
-		setAverageTime(averageTime);
-		setAverageVolume(averageVolume);
-		setAverageCubage(averageCubage);
-		setAverageUnities(averageUnities);
-		setPositivation(positivation);
-		setPriority(priority);
-		setVehicleFixed(vehicleFixed);
-		setFrequency(frequency);
-		setDaysFixed(daysFixed);
-		setWeeksFixed(weeksFixed);
-
+		setBeginOperation(beginOperation);
+		setEndOperation(endOperation);
 	}
 
 	public int getId() {
@@ -65,156 +46,52 @@ public class Places {
 		this.id = id;
 	}
 
-	public double getX() {
-		return x;
+	public double getLatitude() {
+		return latitude;
 	}
 
-	public void setX(double x) {
-		this.x = x;
+	public void setLatitude(double latitude) {
+		this.latitude = latitude;
 	}
 
-	public double getY() {
-		return y;
+	public double getLongitude() {
+		return longitude;
 	}
 
-	public void setY(double y) {
-		this.y = y;
+	public void setLongitude(double longitude) {
+		this.longitude = longitude;
 	}
 
-	public ArrayList<String> getKind() {
-		return kind;
+	public ArrayList<String> getType() {
+		return type;
 	}
 
-	public void setKind(ArrayList<String> kind) {
-		this.kind = kind;
+	public void setType(ArrayList<String> type) {
+		this.type = type;
 	}
 
 	public ArrayList<String> getVehicleCompatible() {
 		return vehicleCompatible;
 	}
 
-	public void setVehicleCompatible(ArrayList<String> vehicleCompatiblee) {
+	public void setVehicleCompatible(ArrayList<String> vehicleCompatible) {
 		this.vehicleCompatible = vehicleCompatible;
 	}
 
-	public int getSeqence() {
-		return seqence;
+	public LocalDateTime getBeginOperation() {
+		return beginOperation;
 	}
 
-	public void setSeqence(int seqence) {
-		this.seqence = seqence;
+	public void setBeginOperation(LocalDateTime beginOperation) {
+		this.beginOperation = beginOperation;
 	}
 
-	public int getBegin() {
-		return begin;
+	public LocalDateTime getEndOperation() {
+		return endOperation;
 	}
 
-	public void setBegin(int begin) {
-		this.begin = begin;
-	}
-
-	public int getEnd() {
-		return end;
-	}
-
-	public void setEnd(int end) {
-		this.end = end;
-	}
-
-	public double getAverageValue() {
-		return averageValue;
-	}
-
-	public void setAverageValue(double averageValue) {
-		this.averageValue = averageValue;
-	}
-
-	public double getAverageWeight() {
-		return averageWeight;
-	}
-
-	public void setAverageWeight(double averageWeight) {
-		this.averageWeight = averageWeight;
-	}
-
-	public double getAverageTime() {
-		return averageTime;
-	}
-
-	public void setAverageTime(double averageTime) {
-		this.averageTime = averageTime;
-	}
-
-	public double getAverageVolume() {
-		return averageVolume;
-	}
-
-	public void setAverageVolume(double averageVolume) {
-		this.averageVolume = averageVolume;
-	}
-
-	public double getAverageCubage() {
-		return averageCubage;
-	}
-
-	public void setAverageCubage(double averageCubage) {
-		this.averageCubage = averageCubage;
-	}
-
-	public double getAverageUnities() {
-		return averageUnities;
-	}
-
-	public void setAverageUnities(double averageUnities) {
-		this.averageUnities = averageUnities;
-	}
-
-	public double getPositivation() {
-		return positivation;
-	}
-
-	public void setPositivation(double positivation) {
-		this.positivation = positivation;
-	}
-
-	public boolean isPriority() {
-		return priority;
-	}
-
-	public void setPriority(boolean priority) {
-		this.priority = priority;
-	}
-
-	public String getVehicleFixed() {
-		return vehicleFixed;
-	}
-
-	public void setVehicleFixed(String vehicleFixed) {
-		this.vehicleFixed = vehicleFixed;
-	}
-
-	public int getFrequency() {
-		return frequency;
-	}
-
-	public void setFrequency(int frequency) {
-		this.frequency = frequency;
-	}
-
-	public String getDaysFixed() {
-		return daysFixed;
-	}
-
-	public void setDaysFixed(String daysFixed) {
-		this.daysFixed = daysFixed;
-	}
-
-	public String getWeeksFixed() {
-		return weeksFixed;
-	}
-
-	public void setWeeksFixed(String weeksFixed) {
-		this.weeksFixed = weeksFixed;
+	public void setEndOperation(LocalDateTime endOperation) {
+		this.endOperation = endOperation;
 	}
 
 }

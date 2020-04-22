@@ -1,55 +1,39 @@
 package model;
 
-public class Lunch {
+import java.time.LocalDateTime;
 
-	private double start;
-	private double end;
-	private double delay;
-	private double antecipation;
+import com.fasterxml.jackson.annotation.JsonFormat;
 
-	public Lunch() {
+public class LunchTime {
+
+	//@JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "YYYY-MM-DD'T'HH:MM:SS")
+	private LocalDateTime start;
+	//@JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "YYYY-MM-DD'T'HH:MM:SS")
+	private LocalDateTime end;
+
+	public LunchTime() {
 		super();
 	}
 
-	public Lunch(double start, double end, double delay, double antecipation) {
+	public LunchTime(LocalDateTime start, LocalDateTime end) {
 		super();
 		setStart(start);
 		setEnd(end);
-		setDelay(delay);
-		setAntecipation(antecipation);
-
 	}
 
-	public double getStart() {
+	public LocalDateTime getStart() {
 		return start;
 	}
 
-	public void setStart(double start) {
+	public void setStart(LocalDateTime start) {
 		this.start = start;
 	}
 
-	public double getEnd() {
+	public LocalDateTime getEnd() {
 		return end;
 	}
 
-	public void setEnd(double end) {
+	public void setEnd(LocalDateTime end) {
 		this.end = end;
 	}
-
-	public double getDelay() {
-		return delay;
-	}
-
-	public void setDelay(double delay) {
-		this.delay = delay;
-	}
-
-	public double getAntecipation() {
-		return antecipation;
-	}
-
-	public void setAntecipation(double antecipation) {
-		this.antecipation = antecipation;
-	}
-
 }

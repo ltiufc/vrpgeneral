@@ -4,20 +4,28 @@ public class Vehicles {
 
 	private String id;
 	private String kind;
-	private int dc;
-	private int[] limits = new int[5];
+	private int distributionCenter;
+	private double monetaryLimit;
+	private double weightLimit;
+	private double volumeLimit;
+	private double cubageLimit;
+	private double containersLimit;
 
 	public Vehicles() {
 		super();
 	}
 
-	public Vehicles(String id, String kind, int dc, int[] limits) {
+	public Vehicles(String id, String kind, int distributionCenter, double monetaryLimit, double weightLimit,
+			double volumeLimit, double cubageLimit, double containersLimit) {
 		super();
 		setId(id);
 		setKind(kind);
-		setDc(dc);
-		setLimits(limits);
-
+		setDistributionCenter(distributionCenter);
+		setMonetaryLimit(monetaryLimit);
+		setWeightLimit(weightLimit);
+		setVolumeLimit(volumeLimit);
+		setCubageLimit(cubageLimit);
+		setContainersLimit(containersLimit);
 	}
 
 	public String getId() {
@@ -36,20 +44,52 @@ public class Vehicles {
 		this.kind = kind;
 	}
 
-	public int getDc() {
-		return dc;
+	public int getDistributionCenter() {
+		return distributionCenter;
 	}
 
-	public void setDc(int dc) {
-		this.dc = dc;
+	public void setDistributionCenter(int distributionCenter) {
+		this.distributionCenter = distributionCenter;
 	}
 
-	public int[] getLimits() {
-		return limits;
+	public double getMonetaryLimit() {
+		return monetaryLimit;
 	}
 
-	public void setLimits(int[] limits) {
-		this.limits = limits;
+	public void setMonetaryLimit(double monetaryLimit) {
+		this.monetaryLimit = monetaryLimit;
+	}
+
+	public double getWeightLimit() {
+		return weightLimit;
+	}
+
+	public void setWeightLimit(double weightLimit) {
+		this.weightLimit = weightLimit;
+	}
+
+	public double getVolumeLimit() {
+		return volumeLimit;
+	}
+
+	public void setVolumeLimit(double volumeLimit) {
+		this.volumeLimit = volumeLimit;
+	}
+
+	public double getCubageLimit() {
+		return cubageLimit;
+	}
+
+	public void setCubageLimit(double cubageLimit) {
+		this.cubageLimit = cubageLimit;
+	}
+
+	public double getContainersLimit() {
+		return containersLimit;
+	}
+
+	public void setContainersLimit(double containersLimit) {
+		this.containersLimit = containersLimit;
 	}
 
 }
