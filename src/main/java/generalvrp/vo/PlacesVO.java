@@ -1,4 +1,4 @@
-package model;
+package generalvrp.vo;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
-public class Places {
+public class PlacesVO {
 
 	private int id;
 	private double latitude;
@@ -22,11 +22,11 @@ public class Places {
 	// "yyyy-MM-dd'T'HH:mm:ss")
 	private LocalDateTime endOperation;
 
-	public Places() {
+	public PlacesVO() {
 		super();
 	}
 
-	public Places(int id, double latitude, double longitude, ArrayList<String> type,
+	public PlacesVO(int id, double latitude, double longitude, ArrayList<String> type,
 			ArrayList<String> vehicleCompatible, LocalDateTime beginOperation, LocalDateTime endOperation) {
 		super();
 		setId(id);

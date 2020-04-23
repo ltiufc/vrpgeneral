@@ -1,17 +1,17 @@
-package model;
+package generalvrp.vo;
 
-public class Operation {
+public class OperationVO {
 
 	private double start;
 	private double end;
 	private double startSaturday;
 	private double endSaturday;
 
-	public Operation() {
+	public OperationVO() {
 		super();
 	}
 
-	public Operation(double start, double end, double startSaturday, double endSaturday) {
+	public OperationVO(double start, double end, double startSaturday, double endSaturday) {
 		super();
 		setStart(start);
 		setEnd(end);

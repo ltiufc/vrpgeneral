@@ -1,4 +1,4 @@
-package model;
+package generalvrp.vo;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
-public class Orders {
+public class OrdersVO {
 
 	private int id;
 	private int from;
@@ -27,15 +27,15 @@ public class Orders {
 	private int positivation;
 	private boolean priority;
 	private String vehicleFixed;
-	private Frequency frequency;
+	private FrequencyVO frequency;
 
-	public Orders() {
+	public OrdersVO() {
 		super();
 	}
 
-	public Orders(int id, int from, int to, ArrayList<String> vehicleCompatible, LocalDateTime beginTimeWindow,
+	public OrdersVO(int id, int from, int to, ArrayList<String> vehicleCompatible, LocalDateTime beginTimeWindow,
 			LocalDateTime endTimeWindow, double monetaryValue, double weight, double volume, double cubage,
-			double containers, int positivation, boolean priority, String vehicleFixed, Frequency frequency) {
+			double containers, int positivation, boolean priority, String vehicleFixed, FrequencyVO frequency) {
 		super();
 		setId(id);
 		setFrom(from);
@@ -165,11 +165,11 @@ public class Orders {
 		this.vehicleFixed = vehicleFixed;
 	}
 
-	public Frequency getFrequency() {
+	public FrequencyVO getFrequency() {
 		return frequency;
 	}
 
-	public void setFrequency(Frequency frequency) {
+	public void setFrequency(FrequencyVO frequency) {
 		this.frequency = frequency;
 	}
 

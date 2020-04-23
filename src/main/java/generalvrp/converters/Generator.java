@@ -1,4 +1,4 @@
-package main;
+package generalvrp.converters;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -24,11 +24,11 @@ import com.google.gson.JsonPrimitive;
 import com.google.gson.JsonSerializationContext;
 import com.google.gson.JsonSerializer;
 
-import model.InstanciaGeral;
+import generalvrp.vo.InstanciaGeralVO;
 
 public class Generator {
 
-	InstanciaGeral instanciaGeral;
+	InstanciaGeralVO instanciaGeral;
 
 	public void recInstances() throws IOException {
 
@@ -63,7 +63,7 @@ public class Generator {
 		System.out.println(json);
 
 		// Leitura do arquivo json e Transformação em Objeto.
-		instanciaGeral = new Gson().fromJson(json, InstanciaGeral.class);
+		instanciaGeral = new Gson().fromJson(json, InstanciaGeralVO.class);
 
 		String saidaInstanciaGeral = gson.toJson(instanciaGeral);
 		System.out.println(saidaInstanciaGeral);

@@ -1,6 +1,6 @@
-package model;
+package generalvrp.vo;
 
-public class Vehicles {
+public class VehiclesVO {
 
 	private String id;
 	private String kind;
@@ -11,11 +11,11 @@ public class Vehicles {
 	private double cubageLimit;
 	private double containersLimit;
 
-	public Vehicles() {
+	public VehiclesVO() {
 		super();
 	}
 
-	public Vehicles(String id, String kind, int distributionCenter, double monetaryLimit, double weightLimit,
+	public VehiclesVO(String id, String kind, int distributionCenter, double monetaryLimit, double weightLimit,
 			double volumeLimit, double cubageLimit, double containersLimit) {
 		super();
 		setId(id);

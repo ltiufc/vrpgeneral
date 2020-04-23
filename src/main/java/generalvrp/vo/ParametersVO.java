@@ -1,21 +1,21 @@
-package model;
+package generalvrp.vo;
 
-public class Parameters {
+public class ParametersVO {
 
 	//operation vai ser retirado mais tarde.
 	//private Operation operation;
-	private LunchTime lunchTime;
+	private LunchTimeVO lunchTime;
 	private boolean isOpenRoute;
 	private boolean useTimeWindows;
 	private boolean isMultiperiod;
 
 
-	public Parameters() {
+	public ParametersVO() {
 		super();
 	}
 
 
-	public Parameters(Operation operation, LunchTime lunchTime, boolean isOpenRoute, boolean useTimeWindows,
+	public ParametersVO(OperationVO operation, LunchTimeVO lunchTime, boolean isOpenRoute, boolean useTimeWindows,
 			boolean isMultiperiod) {
 		super();
 		//this.operation = operation;
@@ -36,12 +36,12 @@ public class Parameters {
 	}
 */
 
-	public LunchTime getLunch() {
+	public LunchTimeVO getLunch() {
 		return lunchTime;
 	}
 
 
-	public void setLunch(LunchTime lunchTime) {
+	public void setLunch(LunchTimeVO lunchTime) {
 		this.lunchTime = lunchTime;
 	}
 
