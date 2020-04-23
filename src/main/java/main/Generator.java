@@ -6,6 +6,7 @@ import java.io.PrintWriter;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.sql.Date;
 import java.time.Instant;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
@@ -14,6 +15,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 
 import com.fasterxml.jackson.annotation.JsonSubTypes.Type;
+import com.fasterxml.jackson.databind.ser.std.DateSerializer;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonDeserializationContext;
@@ -25,6 +27,7 @@ import com.google.gson.JsonSerializationContext;
 import com.google.gson.JsonSerializer;
 
 import model.InstanciaGeral;
+import util.Deserialize;
 
 public class Generator {
 
@@ -57,7 +60,11 @@ public class Generator {
 		 * Gson gson = gsonBuilder.setPrettyPrinting().create();
 		 */
 		///home/felipelima/eclipse-workspace/tccfelipe/src/main/resources/data/testeSolomon.json
-		Gson gson = new Gson();
+		
+		//Gson gson = new GsonBuilder().setDateFormat("yyyy-MM-dd'T'HH:mm:ss").create();
+		Gson gson = new GsonBuilder().registerTypeAdapter(Date.class, new Deserialize()).create();
+
+		//Gson gson = new Gson();
 		String fileName = "./src/main/resources/data/testeSolomon.json";
 		String json = String.join(" ", Files.readAllLines(Paths.get(fileName), StandardCharsets.UTF_8));
 		System.out.println(json);

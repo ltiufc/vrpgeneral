@@ -3,7 +3,7 @@ package model;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-
+import java.util.Date;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
@@ -15,10 +15,10 @@ public class Orders {
 	private ArrayList<String> vehicleCompatible = new ArrayList<String>();
 	// @JsonFormat(shape = JsonFormat.Shape.STRING, pattern =
 	// "yyyy-MM-dd'T'HH:mm:ss")
-	private LocalDateTime beginTimeWindow;
+	private Date beginTimeWindow;
 	// @JsonFormat(shape = JsonFormat.Shape.STRING, pattern =
 	// "yyyy-MM-dd'T'HH:mm:ss")
-	private LocalDateTime endTimeWindow;
+	private Date endTimeWindow;
 	private double monetaryValue;
 	private double weight;
 	private double volume;
@@ -33,8 +33,8 @@ public class Orders {
 		super();
 	}
 
-	public Orders(int id, int from, int to, ArrayList<String> vehicleCompatible, LocalDateTime beginTimeWindow,
-			LocalDateTime endTimeWindow, double monetaryValue, double weight, double volume, double cubage,
+	public Orders(int id, int from, int to, ArrayList<String> vehicleCompatible, Date beginTimeWindow,
+			Date endTimeWindow, double monetaryValue, double weight, double volume, double cubage,
 			double containers, int positivation, boolean priority, String vehicleFixed, Frequency frequency) {
 		super();
 		setId(id);
@@ -85,19 +85,19 @@ public class Orders {
 		this.vehicleCompatible = vehicleCompatible;
 	}
 
-	public LocalDateTime getBeginTimeWindow() {
+	public Date getBeginTimeWindow() {
 		return beginTimeWindow;
 	}
 
-	public void setBeginTimeWindow(LocalDateTime beginTimeWindow) {
+	public void setBeginTimeWindow(Date beginTimeWindow) {
 		this.beginTimeWindow = beginTimeWindow;
 	}
 
-	public LocalDateTime getEndTimeWindow() {
+	public Date getEndTimeWindow() {
 		return endTimeWindow;
 	}
 
-	public void setEndTimeWindow(LocalDateTime endTimeWindow) {
+	public void setEndTimeWindow(Date endTimeWindow) {
 		this.endTimeWindow = endTimeWindow;
 	}
 

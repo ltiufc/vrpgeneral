@@ -2,6 +2,7 @@ package model;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
+import java.util.Date;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
@@ -16,18 +17,18 @@ public class Places {
 
 	// @JsonFormat(shape = JsonFormat.Shape.STRING, pattern =
 	// "yyyy-MM-dd'T'HH:mm:ss")
-	private LocalDateTime beginOperation;
+	private Date beginOperation;
 
 	// @JsonFormat(shape = JsonFormat.Shape.STRING, pattern =
 	// "yyyy-MM-dd'T'HH:mm:ss")
-	private LocalDateTime endOperation;
+	private Date endOperation;
 
 	public Places() {
 		super();
 	}
 
 	public Places(int id, double latitude, double longitude, ArrayList<String> type,
-			ArrayList<String> vehicleCompatible, LocalDateTime beginOperation, LocalDateTime endOperation) {
+			ArrayList<String> vehicleCompatible, Date beginOperation, Date endOperation) {
 		super();
 		setId(id);
 		setLatitude(latitude);
@@ -78,19 +79,19 @@ public class Places {
 		this.vehicleCompatible = vehicleCompatible;
 	}
 
-	public LocalDateTime getBeginOperation() {
+	public Date getBeginOperation() {
 		return beginOperation;
 	}
 
-	public void setBeginOperation(LocalDateTime beginOperation) {
+	public void setBeginOperation(Date beginOperation) {
 		this.beginOperation = beginOperation;
 	}
 
-	public LocalDateTime getEndOperation() {
+	public Date getEndOperation() {
 		return endOperation;
 	}
 
-	public void setEndOperation(LocalDateTime endOperation) {
+	public void setEndOperation(Date endOperation) {
 		this.endOperation = endOperation;
 	}
 
