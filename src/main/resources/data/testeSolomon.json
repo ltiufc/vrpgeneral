@@ -1,8 +1,8 @@
 {
   "parameters": {
     "lunchTime": {
-      "start": "2020-01-01T12:00:10",
-      "end": "2020-01-01T14:00:00"
+      "start": "2020-01-01T12:00:10Z",
+      "end": "2020-01-01T14:00:00Z"
     },
     "isOpenRoute": true,
     "useTimeWindows": true,
@@ -15,7 +15,10 @@
       "longitude": 0,
       "type": [
         "string"
-      ]
+      ],
+     "beginOperation": "2020-01-01T14:00:00Z",
+     "endOperation": "2020-01-01T14:00:00Z"
+
 
     }
   ],
@@ -39,7 +42,8 @@
       "vehicleCompatibility": [
         "string"
       ],
-
+      "beginTimeWindow": "2020-01-01T14:00:00Z",
+      "endTimeWindow": "2020-01-01T14:00:00Z",
       "monetaryValue": 0,
       "weight": 0,
       "volume": 0,
