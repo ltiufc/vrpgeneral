@@ -1,4 +1,4 @@
-package main;
+package generalvrp.converters;
 
 import java.io.IOException;
 
