@@ -1,10 +1,12 @@
 package generalvrp.vo;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class FrequencyVO {
 
+	// TODO: Criar uma enumeração de frequencias aceitas
 	public String type;
-	public ArrayList<String> daysOfWeekFixed;
+	// TODO: Criar uma enumeração de dias
+	public List<String> daysAccepted;
 	
 }

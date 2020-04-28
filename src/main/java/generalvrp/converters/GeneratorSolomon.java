@@ -10,7 +10,7 @@ import com.google.gson.Gson;
 
 import generalvrp.vo.InstanciaGeralVO;
 
-public class Generator {
+public class GeneratorSolomon {
 
 	InstanciaGeralVO instanciaGeral;
 

@@ -6,7 +6,7 @@ public class ParametersVO {
 	//private Operation operation;
 	public LunchTimeVO lunchTime;
 	public boolean isOpenRoute;
-	public boolean useTimeWindows;
+	public boolean isTimeWindows;
 	public boolean isMultiperiod;
 
 }

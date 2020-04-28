@@ -1,9 +1,11 @@
 package generalvrp.vo;
 
+import java.time.LocalTime;
+
 public class OperationVO {
 
-	private double start;
-	private double end;
+	private LocalTime start;
+	private LocalTime end;
 	private double startSaturday;
 	private double endSaturday;
 
@@ -11,7 +13,7 @@ public class OperationVO {
 		super();
 	}
 
-	public OperationVO(double start, double end, double startSaturday, double endSaturday) {
+	public OperationVO(LocalTime start, LocalTime end, double startSaturday, double endSaturday) {
 		super();
 		setStart(start);
 		setEnd(end);
@@ -20,19 +22,19 @@ public class OperationVO {
 
 	}
 
-	public double getStart() {
+	public LocalTime getStart() {
 		return start;
 	}
 
-	public void setStart(double start) {
+	public void setStart(LocalTime start) {
 		this.start = start;
 	}
 
-	public double getEnd() {
+	public LocalTime getEnd() {
 		return end;
 	}
 
-	public void setEnd(double end) {
+	public void setEnd(LocalTime end) {
 		this.end = end;
 	}
 
