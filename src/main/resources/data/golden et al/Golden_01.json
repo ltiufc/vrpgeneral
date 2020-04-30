@@ -1,5 +1,5 @@
 {
-  "params": {
+  "parameters": {
     "lunchTime": {
       "start": "Jan 1, 2020 11:00:10 AM",
       "end": "Jan 1, 2020 12:00:00 AM"
@@ -5426,6 +5426,27 @@
       "serviceTime": 0,
       "monetaryValue": 0,
       "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 155,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
       "volume": 0,
       "cubage": 0,
       "containers": 0,
