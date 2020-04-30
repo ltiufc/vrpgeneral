@@ -15,6 +15,7 @@ public class OrdersVO {
 	public ArrayList<String> vehicleCompatible = new ArrayList<String>();
 	public Date beginTimeWindow;
 	public Date endTimeWindow;
+	public double serviceTime;
 	public double monetaryValue;
 	public double weight;
 	public double volume;
