@@ -1,1 +1,1116 @@
-{"places":[{"id":0,"latitude":35.0,"longitude":35.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 12:00:00 AM","endOperation":"Jan 1, 2020 3:50:00 AM"},{"id":1,"latitude":41.0,"longitude":49.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 2:31:00 AM","endOperation":"Jan 1, 2020 3:01:00 AM"},{"id":2,"latitude":35.0,"longitude":17.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 12:40:00 AM","endOperation":"Jan 1, 2020 1:10:00 AM"},{"id":3,"latitude":55.0,"longitude":45.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:46:00 AM","endOperation":"Jan 1, 2020 2:16:00 AM"},{"id":4,"latitude":55.0,"longitude":20.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 2:19:00 AM","endOperation":"Jan 1, 2020 2:49:00 AM"},{"id":5,"latitude":15.0,"longitude":30.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 12:24:00 AM","endOperation":"Jan 1, 2020 12:54:00 AM"},{"id":6,"latitude":25.0,"longitude":30.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:28:00 AM","endOperation":"Jan 1, 2020 1:59:00 AM"},{"id":7,"latitude":20.0,"longitude":50.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:11:00 AM","endOperation":"Jan 1, 2020 1:41:00 AM"},{"id":8,"latitude":10.0,"longitude":43.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:25:00 AM","endOperation":"Jan 1, 2020 1:55:00 AM"},{"id":9,"latitude":55.0,"longitude":60.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:27:00 AM","endOperation":"Jan 1, 2020 1:57:00 AM"},{"id":10,"latitude":30.0,"longitude":60.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:54:00 AM","endOperation":"Jan 1, 2020 2:24:00 AM"},{"id":11,"latitude":20.0,"longitude":65.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 12:57:00 AM","endOperation":"Jan 1, 2020 1:27:00 AM"},{"id":12,"latitude":50.0,"longitude":35.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 12:53:00 AM","endOperation":"Jan 1, 2020 1:23:00 AM"},{"id":13,"latitude":30.0,"longitude":25.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 2:29:00 AM","endOperation":"Jan 1, 2020 2:59:00 AM"},{"id":14,"latitude":15.0,"longitude":10.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 12:32:00 AM","endOperation":"Jan 1, 2020 1:02:00 AM"},{"id":15,"latitude":30.0,"longitude":5.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 12:51:00 AM","endOperation":"Jan 1, 2020 1:21:00 AM"},{"id":16,"latitude":10.0,"longitude":20.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:05:00 AM","endOperation":"Jan 1, 2020 1:35:00 AM"},{"id":17,"latitude":5.0,"longitude":30.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 2:27:00 AM","endOperation":"Jan 1, 2020 2:57:00 AM"},{"id":18,"latitude":20.0,"longitude":40.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:17:00 AM","endOperation":"Jan 1, 2020 1:47:00 AM"},{"id":19,"latitude":15.0,"longitude":60.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:06:00 AM","endOperation":"Jan 1, 2020 1:36:00 AM"},{"id":20,"latitude":45.0,"longitude":65.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:55:00 AM","endOperation":"Jan 1, 2020 2:25:00 AM"},{"id":21,"latitude":45.0,"longitude":20.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 12:52:00 AM","endOperation":"Jan 1, 2020 1:22:00 AM"},{"id":22,"latitude":45.0,"longitude":10.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 1:27:00 AM","endOperation":"Jan 1, 2020 1:57:00 AM"},{"id":23,"latitude":55.0,"longitude":5.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 12:58:00 AM","endOperation":"Jan 1, 2020 12:28:00 AM"},{"id":24,"latitude":65.0,"longitude":35.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 2:23:00 AM","endOperation":"Jan 1, 2020 2:53:00 AM"},{"id":25,"latitude":65.0,"longitude":20.0,"type":["string"],"vehicleCompatible":[],"beginOperation":"Jan 1, 2020 2:36:00 AM","endOperation":"Jan 1, 2020 3:06:00 AM"}],"vehicles":[{"id":"0","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"1","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"2","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"3","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"4","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"5","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"6","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"7","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"8","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"9","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"10","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"11","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"12","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"13","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"14","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"15","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"16","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"17","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"18","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"19","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"20","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"21","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"22","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"23","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0},{"id":"24","kind":"string","distributionCenter":0,"monetaryLimit":0.0,"weightLimit":200.0,"volumeLimit":0.0,"cubageLimit":0.0,"containersLimit":0.0}],"orders":[{"id":0,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 12:00:00 AM","endTimeWindow":"Jan 1, 2020 3:50:00 AM","monetaryValue":0.0,"weight":0.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":false},{"id":1,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 2:31:00 AM","endTimeWindow":"Jan 1, 2020 3:01:00 AM","monetaryValue":0.0,"weight":10.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":false},{"id":2,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 12:40:00 AM","endTimeWindow":"Jan 1, 2020 1:10:00 AM","monetaryValue":0.0,"weight":7.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":false},{"id":3,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:46:00 AM","endTimeWindow":"Jan 1, 2020 2:16:00 AM","monetaryValue":0.0,"weight":13.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":false},{"id":4,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 2:19:00 AM","endTimeWindow":"Jan 1, 2020 2:49:00 AM","monetaryValue":0.0,"weight":19.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":false},{"id":5,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 12:24:00 AM","endTimeWindow":"Jan 1, 2020 12:54:00 AM","monetaryValue":0.0,"weight":26.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":6,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:28:00 AM","endTimeWindow":"Jan 1, 2020 1:59:00 AM","monetaryValue":0.0,"weight":3.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":7,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:11:00 AM","endTimeWindow":"Jan 1, 2020 1:41:00 AM","monetaryValue":0.0,"weight":5.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":8,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:25:00 AM","endTimeWindow":"Jan 1, 2020 1:55:00 AM","monetaryValue":0.0,"weight":9.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":9,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:27:00 AM","endTimeWindow":"Jan 1, 2020 1:57:00 AM","monetaryValue":0.0,"weight":16.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":10,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:54:00 AM","endTimeWindow":"Jan 1, 2020 2:24:00 AM","monetaryValue":0.0,"weight":16.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":11,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 12:57:00 AM","endTimeWindow":"Jan 1, 2020 1:27:00 AM","monetaryValue":0.0,"weight":12.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":12,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 12:53:00 AM","endTimeWindow":"Jan 1, 2020 1:23:00 AM","monetaryValue":0.0,"weight":19.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":13,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 2:29:00 AM","endTimeWindow":"Jan 1, 2020 2:59:00 AM","monetaryValue":0.0,"weight":23.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":14,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 12:32:00 AM","endTimeWindow":"Jan 1, 2020 1:02:00 AM","monetaryValue":0.0,"weight":20.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":15,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 12:51:00 AM","endTimeWindow":"Jan 1, 2020 1:21:00 AM","monetaryValue":0.0,"weight":8.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":16,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:05:00 AM","endTimeWindow":"Jan 1, 2020 1:35:00 AM","monetaryValue":0.0,"weight":19.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":17,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 2:27:00 AM","endTimeWindow":"Jan 1, 2020 2:57:00 AM","monetaryValue":0.0,"weight":2.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":18,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:17:00 AM","endTimeWindow":"Jan 1, 2020 1:47:00 AM","monetaryValue":0.0,"weight":12.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":19,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:06:00 AM","endTimeWindow":"Jan 1, 2020 1:36:00 AM","monetaryValue":0.0,"weight":17.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":20,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:55:00 AM","endTimeWindow":"Jan 1, 2020 2:25:00 AM","monetaryValue":0.0,"weight":9.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":21,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 12:52:00 AM","endTimeWindow":"Jan 1, 2020 1:22:00 AM","monetaryValue":0.0,"weight":11.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":22,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 1:27:00 AM","endTimeWindow":"Jan 1, 2020 1:57:00 AM","monetaryValue":0.0,"weight":18.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":23,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 12:58:00 AM","endTimeWindow":"Jan 1, 2020 12:28:00 AM","monetaryValue":0.0,"weight":29.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":24,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 2:23:00 AM","endTimeWindow":"Jan 1, 2020 2:53:00 AM","monetaryValue":0.0,"weight":3.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}},{"id":25,"from":0,"to":0,"vehicleCompatible":[],"beginTimeWindow":"Jan 1, 2020 2:36:00 AM","endTimeWindow":"Jan 1, 2020 3:06:00 AM","monetaryValue":0.0,"weight":6.0,"volume":0.0,"cubage":0.0,"containers":0.0,"positivation":0,"priority":true,"vehicleFixed":"string","frequency":{"type":"string","daysOfWeekFixed":["string"]}}]}
+{
+  "parameters": {
+    "lunchTime": {
+      "start": "Jan 1, 2020 11:00:10 AM",
+      "end": "Jan 1, 2020 12:00:00 AM"
+    },
+    "isOpenRoute": true,
+    "useTimeWindows": true,
+    "isMultiperiod": false
+  },
+  "places": [
+    {
+      "id": 0,
+      "latitude": 35,
+      "longitude": 35,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:00:00 AM",
+      "endOperation": "Jan 1, 2020 3:50:00 AM"
+    },
+    {
+      "id": 1,
+      "latitude": 41,
+      "longitude": 49,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:31:00 AM",
+      "endOperation": "Jan 1, 2020 3:01:00 AM"
+    },
+    {
+      "id": 2,
+      "latitude": 35,
+      "longitude": 17,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:40:00 AM",
+      "endOperation": "Jan 1, 2020 1:10:00 AM"
+    },
+    {
+      "id": 3,
+      "latitude": 55,
+      "longitude": 45,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:46:00 AM",
+      "endOperation": "Jan 1, 2020 2:16:00 AM"
+    },
+    {
+      "id": 4,
+      "latitude": 55,
+      "longitude": 20,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:19:00 AM",
+      "endOperation": "Jan 1, 2020 2:49:00 AM"
+    },
+    {
+      "id": 5,
+      "latitude": 15,
+      "longitude": 30,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:24:00 AM",
+      "endOperation": "Jan 1, 2020 12:54:00 AM"
+    },
+    {
+      "id": 6,
+      "latitude": 25,
+      "longitude": 30,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:28:00 AM",
+      "endOperation": "Jan 1, 2020 1:59:00 AM"
+    },
+    {
+      "id": 7,
+      "latitude": 20,
+      "longitude": 50,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:11:00 AM",
+      "endOperation": "Jan 1, 2020 1:41:00 AM"
+    },
+    {
+      "id": 8,
+      "latitude": 10,
+      "longitude": 43,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:25:00 AM",
+      "endOperation": "Jan 1, 2020 1:55:00 AM"
+    },
+    {
+      "id": 9,
+      "latitude": 55,
+      "longitude": 60,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:27:00 AM",
+      "endOperation": "Jan 1, 2020 1:57:00 AM"
+    },
+    {
+      "id": 10,
+      "latitude": 30,
+      "longitude": 60,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:54:00 AM",
+      "endOperation": "Jan 1, 2020 2:24:00 AM"
+    },
+    {
+      "id": 11,
+      "latitude": 20,
+      "longitude": 65,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:57:00 AM",
+      "endOperation": "Jan 1, 2020 1:27:00 AM"
+    },
+    {
+      "id": 12,
+      "latitude": 50,
+      "longitude": 35,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:53:00 AM",
+      "endOperation": "Jan 1, 2020 1:23:00 AM"
+    },
+    {
+      "id": 13,
+      "latitude": 30,
+      "longitude": 25,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:29:00 AM",
+      "endOperation": "Jan 1, 2020 2:59:00 AM"
+    },
+    {
+      "id": 14,
+      "latitude": 15,
+      "longitude": 10,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:32:00 AM",
+      "endOperation": "Jan 1, 2020 1:02:00 AM"
+    },
+    {
+      "id": 15,
+      "latitude": 30,
+      "longitude": 5,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:51:00 AM",
+      "endOperation": "Jan 1, 2020 1:21:00 AM"
+    },
+    {
+      "id": 16,
+      "latitude": 10,
+      "longitude": 20,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:05:00 AM",
+      "endOperation": "Jan 1, 2020 1:35:00 AM"
+    },
+    {
+      "id": 17,
+      "latitude": 5,
+      "longitude": 30,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:27:00 AM",
+      "endOperation": "Jan 1, 2020 2:57:00 AM"
+    },
+    {
+      "id": 18,
+      "latitude": 20,
+      "longitude": 40,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:17:00 AM",
+      "endOperation": "Jan 1, 2020 1:47:00 AM"
+    },
+    {
+      "id": 19,
+      "latitude": 15,
+      "longitude": 60,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:06:00 AM",
+      "endOperation": "Jan 1, 2020 1:36:00 AM"
+    },
+    {
+      "id": 20,
+      "latitude": 45,
+      "longitude": 65,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:55:00 AM",
+      "endOperation": "Jan 1, 2020 2:25:00 AM"
+    },
+    {
+      "id": 21,
+      "latitude": 45,
+      "longitude": 20,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:52:00 AM",
+      "endOperation": "Jan 1, 2020 1:22:00 AM"
+    },
+    {
+      "id": 22,
+      "latitude": 45,
+      "longitude": 10,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:27:00 AM",
+      "endOperation": "Jan 1, 2020 1:57:00 AM"
+    },
+    {
+      "id": 23,
+      "latitude": 55,
+      "longitude": 5,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:58:00 AM",
+      "endOperation": "Jan 1, 2020 12:28:00 AM"
+    },
+    {
+      "id": 24,
+      "latitude": 65,
+      "longitude": 35,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:23:00 AM",
+      "endOperation": "Jan 1, 2020 2:53:00 AM"
+    },
+    {
+      "id": 25,
+      "latitude": 65,
+      "longitude": 20,
+      "type": [
+        "string"
+      ],
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:36:00 AM",
+      "endOperation": "Jan 1, 2020 3:06:00 AM"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "0",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "1",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "2",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "3",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "4",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "5",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "6",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "7",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "8",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "9",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "10",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "11",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "12",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "13",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "14",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "15",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "16",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "17",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "18",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "19",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "20",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "21",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "22",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "23",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "24",
+      "kind": "string",
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 200,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    }
+  ],
+  "orders": [
+    {
+      "id": 0,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 12:00:00 AM",
+      "endTimeWindow": "Jan 1, 2020 3:50:00 AM",
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 0,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": false
+    },
+    {
+      "id": 1,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 2:31:00 AM",
+      "endTimeWindow": "Jan 1, 2020 3:01:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": false
+    },
+    {
+      "id": 2,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 12:40:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:10:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 7,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": false
+    },
+    {
+      "id": 3,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:46:00 AM",
+      "endTimeWindow": "Jan 1, 2020 2:16:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 13,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": false
+    },
+    {
+      "id": 4,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 2:19:00 AM",
+      "endTimeWindow": "Jan 1, 2020 2:49:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 19,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": false
+    },
+    {
+      "id": 5,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 12:24:00 AM",
+      "endTimeWindow": "Jan 1, 2020 12:54:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 26,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:28:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:59:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 3,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:11:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:41:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 5,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:25:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:55:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 9,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:27:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:57:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 16,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:54:00 AM",
+      "endTimeWindow": "Jan 1, 2020 2:24:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 16,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 12:57:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:27:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 12,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 12:53:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:23:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 19,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 2:29:00 AM",
+      "endTimeWindow": "Jan 1, 2020 2:59:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 23,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 12:32:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:02:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 20,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 12:51:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:21:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 8,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:05:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:35:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 19,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 2:27:00 AM",
+      "endTimeWindow": "Jan 1, 2020 2:57:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 2,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:17:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:47:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 12,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:06:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:36:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 17,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:55:00 AM",
+      "endTimeWindow": "Jan 1, 2020 2:25:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 9,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 12:52:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:22:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 11,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 1:27:00 AM",
+      "endTimeWindow": "Jan 1, 2020 1:57:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 18,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 12:58:00 AM",
+      "endTimeWindow": "Jan 1, 2020 12:28:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 29,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 2:23:00 AM",
+      "endTimeWindow": "Jan 1, 2020 2:53:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 3,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "beginTimeWindow": "Jan 1, 2020 2:36:00 AM",
+      "endTimeWindow": "Jan 1, 2020 3:06:00 AM",
+      "serviceTime": 10,
+      "monetaryValue": 0,
+      "weight": 6,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
+          "string"
+        ]
+      }
+    }
+  ]
+}
