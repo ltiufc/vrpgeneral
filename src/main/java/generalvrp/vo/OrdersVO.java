@@ -21,6 +21,7 @@ public class OrdersVO {
 	public double volume;
 	public double cubage;
 	public double containers;
+	public String typeOrder;
 	public int positivation;
 	public boolean priority;
 	public String vehicleFixed;
