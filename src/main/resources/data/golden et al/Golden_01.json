@@ -2199,7 +2199,7 @@
       "priority": true,
       "vehicleFixed": "string",
       "frequency": {
-        "tlongitudepe": "string",
+        "type": "string",
         "daysOfWeekFixed": [
           "string"
         ]
@@ -2217,11 +2217,11 @@
       "cubage": 0,
       "containers": 0,
       "positivation": 0,
-      "prioritlongitude": true,
-      "vehicleFilatitudeed": "string",
-      "frequenclongitude": {
-        "tlongitudepe": "string",
-        "dalongitudesOfWeekFilatitudeed": [
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
           "string"
         ]
       }
@@ -2232,17 +2232,17 @@
       "to": 0,
       "vehicleCompatible": [],
       "serviceTime": 0,
-      "monetarlongitudeValue": 0,
+      "monetaryValue": 0,
       "weight": 30,
       "volume": 0,
       "cubage": 0,
       "containers": 0,
       "positivation": 0,
-      "prioritlongitude": true,
-      "vehicleFilatitudeed": "string",
-      "frequenclongitude": {
-        "tlongitudepe": "string",
-        "dalongitudesOfWeekFilatitudeed": [
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
           "string"
         ]
       }
@@ -2253,17 +2253,17 @@
       "to": 0,
       "vehicleCompatible": [],
       "serviceTime": 0,
-      "monetarlongitudeValue": 0,
+      "monetaryValue": 0,
       "weight": 10,
       "volume": 0,
       "cubage": 0,
       "containers": 0,
       "positivation": 0,
-      "prioritlongitude": true,
-      "vehicleFilatitudeed": "string",
-      "frequenclongitude": {
-        "tlongitudepe": "string",
-        "dalongitudesOfWeekFilatitudeed": [
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
           "string"
         ]
       }
@@ -2274,17 +2274,17 @@
       "to": 0,
       "vehicleCompatible": [],
       "serviceTime": 0,
-      "monetarlongitudeValue": 0,
+      "monetaryValue": 0,
       "weight": 10,
       "volume": 0,
       "cubage": 0,
       "containers": 0,
       "positivation": 0,
-      "prioritlongitude": true,
-      "vehicleFilatitudeed": "string",
-      "frequenclongitude": {
-        "tlongitudepe": "string",
-        "dalongitudesOfWeekFilatitudeed": [
+      "priority": true,
+      "vehicleFixed": "string",
+      "frequency": {
+        "type": "string",
+        "daysOfWeekFixed": [
           "string"
         ]
       }
