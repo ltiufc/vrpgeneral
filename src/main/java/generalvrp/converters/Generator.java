@@ -8,11 +8,11 @@ import java.nio.file.Paths;
 
 import com.google.gson.Gson;
 
-import generalvrp.vo.InstanciaGeralVO;
+import generalvrp.vo.GeneralInstanceVO;
 
 public class Generator {
 
-	InstanciaGeralVO instanciaGeral;
+	GeneralInstanceVO instanciaGeral;
 
 	public void recInstances() throws IOException {
 
@@ -23,7 +23,7 @@ public class Generator {
 		System.out.println(json);
 
 		// Leitura do arquivo json e Transformação em Objeto.
-		instanciaGeral = new Gson().fromJson(json, InstanciaGeralVO.class);
+		instanciaGeral = new Gson().fromJson(json, GeneralInstanceVO.class);
 
 		String saidaInstanciaGeral = gson.toJson(instanciaGeral);
 		System.out.println(saidaInstanciaGeral);

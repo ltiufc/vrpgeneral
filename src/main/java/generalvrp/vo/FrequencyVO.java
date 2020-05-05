@@ -1,10 +1,10 @@
 package generalvrp.vo;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class FrequencyVO {
 
 	public String type;
-	public ArrayList<String> daysOfWeekFixed;
+	public List<String> daysOfWeekFixed;
 	
 }

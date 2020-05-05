@@ -1,9 +1,9 @@
 package generalvrp.vo;
 
-public class VehiclesVO {
+public class VehicleVO {
 
 	public String id;
-	public String kind;
+	public String type;
 	public int distributionCenter;
 	public double monetaryLimit;
 	public double weightLimit;

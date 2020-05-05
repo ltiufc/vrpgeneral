@@ -1,6 +1,6 @@
 package generalvrp.vo;
 
-public class ParametersVO {
+public class ParameterVO {
 
 	//operation vai ser retirado mais tarde.
 	//private Operation operation;

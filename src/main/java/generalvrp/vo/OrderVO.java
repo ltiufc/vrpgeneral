@@ -1,18 +1,14 @@
 package generalvrp.vo;
 
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
-
-public class OrdersVO {
+public class OrderVO {
 
 	public int id;
 	public int from;
 	public int to;
-	public ArrayList<String> vehicleCompatible = new ArrayList<String>();
+	public List<String> vehicleCompatible;
 	public Date beginTimeWindow;
 	public Date endTimeWindow;
 	public double serviceTime;
@@ -21,7 +17,7 @@ public class OrdersVO {
 	public double volume;
 	public double cubage;
 	public double containers;
-	public String typeOrder;
+	public String type;
 	public int positivation;
 	public boolean priority;
 	public String vehicleFixed;

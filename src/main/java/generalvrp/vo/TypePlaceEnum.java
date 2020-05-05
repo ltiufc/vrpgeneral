@@ -1,5 +1,5 @@
 package generalvrp.vo;
 
-public enum PlacesEnum {
+public enum TypePlaceEnum {
 	CD,CLIENT,GARAGE
 }
