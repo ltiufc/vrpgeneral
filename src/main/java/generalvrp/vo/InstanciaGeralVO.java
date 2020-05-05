@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class InstanciaGeralVO {
 
 	public ParametersVO parameters;
-	public ArrayList<PlacesVO> places;
+	public ArrayList<PlaceVO> places;
 	public ArrayList<VehiclesVO> vehicles;
 	public ArrayList<OrdersVO> orders;
 //	
