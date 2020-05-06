@@ -1,86 +1,70 @@
 {
   "parameters": {
-    "lunchTime": {
-      "start": "Jan 1, 2020 11:00:10 AM",
-      "end": "Jan 1, 2020 12:00:00 AM"
-    },
-    "isOpenRoute": true,
+    "isOpenRoute": false,
     "useTimeWindows": true,
     "isMultiperiod": false
   },
   "places": [
     {
       "id": 0,
-      "latitude": 40,
-      "longitude": 50,
-      "type": [
-        "string"
-      ],
+      "x": 40,
+      "y": 50,
+      "type": "CD",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:00:00 AM",
       "endOperation": "Jan 2, 2020 8:36:00 AM"
     },
     {
       "id": 1,
-      "latitude": 45,
-      "longitude": 68,
-      "type": [
-        "string"
-      ],
+      "x": 45,
+      "y": 68,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:00:00 AM",
       "endOperation": "Jan 1, 2020 6:47:00 PM"
     },
     {
       "id": 2,
-      "latitude": 45,
-      "longitude": 70,
-      "type": [
-        "string"
-      ],
+      "x": 45,
+      "y": 70,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:00:00 AM",
       "endOperation": "Jan 1, 2020 6:45:00 AM"
     },
     {
       "id": 3,
-      "latitude": 42,
-      "longitude": 66,
-      "type": [
-        "string"
-      ],
+      "x": 42,
+      "y": 66,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:00:00 AM",
       "endOperation": "Jan 1, 2020 6:49:00 PM"
     },
     {
       "id": 4,
-      "latitude": 42,
-      "longitude": 68,
-      "type": [
-        "string"
-      ],
+      "x": 42,
+      "y": 68,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:07:00 PM",
       "endOperation": "Jan 1, 2020 1:02:00 PM"
     },
     {
       "id": 5,
-      "latitude": 42,
-      "longitude": 65,
-      "type": [
-        "string"
-      ],
+      "x": 42,
+      "y": 65,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:00:00 AM",
       "endOperation": "Jan 1, 2020 6:50:00 PM"
     },
     {
       "id": 6,
-      "latitude": 40,
-      "longitude": 69,
+      "x": 40,
+      "y": 69,
       "type": [
-        "string"
+        null
       ],
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 10:21:00 AM",
@@ -88,209 +72,171 @@
     },
     {
       "id": 7,
-      "latitude": 40,
-      "longitude": 66,
-      "type": [
-        "string"
-      ],
+      "x": 40,
+      "y": 66,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:00:00 AM",
       "endOperation": "Jan 1, 2020 6:50:00 PM"
     },
     {
       "id": 8,
-      "latitude": 38,
-      "longitude": 68,
-      "type": [
-        "string"
-      ],
+      "x": 38,
+      "y": 68,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 3:45:00 AM",
       "endOperation": "Jan 1, 2020 5:24:00 AM"
     },
     {
       "id": 9,
-      "latitude": 38,
-      "longitude": 70,
-      "type": [
-        "string"
-      ],
+      "x": 38,
+      "y": 70,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 8:54:00 AM",
       "endOperation": "Jan 1, 2020 10:50:00 AM"
     },
     {
       "id": 10,
-      "latitude": 35,
-      "longitude": 66,
-      "type": [
-        "string"
-      ],
+      "x": 35,
+      "y": 66,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 5:57:00 AM",
       "endOperation": "Jan 1, 2020 6:50:00 AM"
     },
     {
       "id": 11,
-      "latitude": 35,
-      "longitude": 69,
-      "type": [
-        "string"
-      ],
+      "x": 35,
+      "y": 69,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 7:28:00 AM",
       "endOperation": "Jan 1, 2020 8:25:00 AM"
     },
     {
       "id": 12,
-      "latitude": 25,
-      "longitude": 85,
-      "type": [
-        "string"
-      ],
+      "x": 25,
+      "y": 85,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 10:52:00 AM",
       "endOperation": "Jan 1, 2020 12:01:00 PM"
     },
     {
       "id": 13,
-      "latitude": 22,
-      "longitude": 75,
-      "type": [
-        "string"
-      ],
+      "x": 22,
+      "y": 75,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:30:00 AM",
       "endOperation": "Jan 1, 2020 1:32:00 AM"
     },
     {
       "id": 14,
-      "latitude": 22,
-      "longitude": 85,
-      "type": [
-        "string"
-      ],
+      "x": 22,
+      "y": 85,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 9:27:00 AM",
       "endOperation": "Jan 1, 2020 10:20:00 AM"
     },
     {
       "id": 15,
-      "latitude": 20,
-      "longitude": 80,
-      "type": [
-        "string"
-      ],
+      "x": 20,
+      "y": 80,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 6:24:00 AM",
       "endOperation": "Jan 1, 2020 7:09:00 AM"
     },
     {
       "id": 16,
-      "latitude": 20,
-      "longitude": 85,
-      "type": [
-        "string"
-      ],
+      "x": 20,
+      "y": 85,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 7:55:00 AM",
       "endOperation": "Jan 1, 2020 8:48:00 AM"
     },
     {
       "id": 17,
-      "latitude": 18,
-      "longitude": 75,
-      "type": [
-        "string"
-      ],
+      "x": 18,
+      "y": 75,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 1:39:00 AM",
       "endOperation": "Jan 1, 2020 2:28:00 AM"
     },
     {
       "id": 18,
-      "latitude": 15,
-      "longitude": 75,
-      "type": [
-        "string"
-      ],
+      "x": 15,
+      "y": 75,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 2:59:00 AM",
       "endOperation": "Jan 1, 2020 4:14:00 AM"
     },
     {
       "id": 19,
-      "latitude": 15,
-      "longitude": 80,
-      "type": [
-        "string"
-      ],
+      "x": 15,
+      "y": 80,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 4:38:00 AM",
       "endOperation": "Jan 1, 2020 5:45:00 AM"
     },
     {
       "id": 20,
-      "latitude": 30,
-      "longitude": 50,
-      "type": [
-        "string"
-      ],
+      "x": 30,
+      "y": 50,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:10:00 AM",
       "endOperation": "Jan 1, 2020 1:13:00 AM"
     },
     {
       "id": 21,
-      "latitude": 30,
-      "longitude": 52,
-      "type": [
-        "string"
-      ],
+      "x": 30,
+      "y": 52,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:00:00 PM",
       "endOperation": "Jan 1, 2020 6:55:00 PM"
     },
     {
       "id": 22,
-      "latitude": 28,
-      "longitude": 52,
-      "type": [
-        "string"
-      ],
+      "x": 28,
+      "y": 52,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 2, 2020 1:32:00 AM",
       "endOperation": "Jan 2, 2020 2:43:00 AM"
     },
     {
       "id": 23,
-      "latitude": 28,
-      "longitude": 55,
-      "type": [
-        "string"
-      ],
+      "x": 28,
+      "y": 55,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 12:12:00 PM",
       "endOperation": "Jan 1, 2020 12:57:00 PM"
     },
     {
       "id": 24,
-      "latitude": 25,
-      "longitude": 55,
-      "type": [
-        "string"
-      ],
+      "x": 25,
+      "y": 55,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 1:05:00 AM",
       "endOperation": "Jan 1, 2020 2:24:00 AM"
     },
     {
       "id": 25,
-      "latitude": 25,
-      "longitude": 52,
-      "type": [
-        "string"
-      ],
+      "x": 25,
+      "y": 52,
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 2:49:00 AM",
       "endOperation": "Jan 1, 2020 4:04:00 AM"
@@ -299,7 +245,7 @@
   "vehicles": [
     {
       "id": "0",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -309,7 +255,7 @@
     },
     {
       "id": "1",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -319,7 +265,7 @@
     },
     {
       "id": "2",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -329,7 +275,7 @@
     },
     {
       "id": "3",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -339,7 +285,7 @@
     },
     {
       "id": "4",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -349,7 +295,7 @@
     },
     {
       "id": "5",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -359,7 +305,7 @@
     },
     {
       "id": "6",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -369,7 +315,7 @@
     },
     {
       "id": "7",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -379,7 +325,7 @@
     },
     {
       "id": "8",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -389,7 +335,7 @@
     },
     {
       "id": "9",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -399,7 +345,7 @@
     },
     {
       "id": "10",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -409,7 +355,7 @@
     },
     {
       "id": "11",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -419,7 +365,7 @@
     },
     {
       "id": "12",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -429,7 +375,7 @@
     },
     {
       "id": "13",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -439,7 +385,7 @@
     },
     {
       "id": "14",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -449,7 +395,7 @@
     },
     {
       "id": "15",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -459,7 +405,7 @@
     },
     {
       "id": "16",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -469,7 +415,7 @@
     },
     {
       "id": "17",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -479,7 +425,7 @@
     },
     {
       "id": "18",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -489,7 +435,7 @@
     },
     {
       "id": "19",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -499,7 +445,7 @@
     },
     {
       "id": "20",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -509,7 +455,7 @@
     },
     {
       "id": "21",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -519,7 +465,7 @@
     },
     {
       "id": "22",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -529,7 +475,7 @@
     },
     {
       "id": "23",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -539,7 +485,7 @@
     },
     {
       "id": "24",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 200,
@@ -643,11 +589,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -666,11 +612,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -689,11 +635,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -712,11 +658,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -735,11 +681,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -758,11 +704,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -781,11 +727,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -804,11 +750,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -827,11 +773,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -850,11 +796,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -873,11 +819,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -896,11 +842,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -919,11 +865,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -942,11 +888,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -965,11 +911,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -988,11 +934,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1011,11 +957,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1034,11 +980,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1057,11 +1003,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1080,11 +1026,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1103,11 +1049,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     }

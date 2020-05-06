@@ -1,9 +1,5 @@
 {
   "parameters": {
-    "lunchTime": {
-      "start": "Jan 1, 2020 11:00:10 AM",
-      "end": "Jan 1, 2020 12:00:00 AM"
-    },
     "isOpenRoute": true,
     "useTimeWindows": true,
     "isMultiperiod": false
@@ -11,468 +7,366 @@
   "places": [
     {
       "id": 0,
-      "latitude": 0,
-      "longitude": 0,
-      "type": [
-        "string"
-      ],
+      "x": 0,
+      "y": 0,
+      "type": "CD",
       "vehicleCompatible": []
     },
     {
       "id": 1,
-      "latitude": 37,
-      "longitude": 52,
-      "type": [
-        "string"
-      ],
+      "x": 37,
+      "y": 52,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 2,
-      "latitude": 49,
-      "longitude": 49,
-      "type": [
-        "string"
-      ],
+      "x": 49,
+      "y": 49,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 3,
-      "latitude": 52,
-      "longitude": 64,
-      "type": [
-        "string"
-      ],
+      "x": 52,
+      "y": 64,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 4,
-      "latitude": 20,
-      "longitude": 26,
-      "type": [
-        "string"
-      ],
+      "x": 20,
+      "y": 26,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 5,
-      "latitude": 40,
-      "longitude": 30,
-      "type": [
-        "string"
-      ],
+      "x": 40,
+      "y": 30,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 6,
-      "latitude": 21,
-      "longitude": 47,
-      "type": [
-        "string"
-      ],
+      "x": 21,
+      "y": 47,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 7,
-      "latitude": 17,
-      "longitude": 63,
-      "type": [
-        "string"
-      ],
+      "x": 17,
+      "y": 63,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 8,
-      "latitude": 31,
-      "longitude": 62,
-      "type": [
-        "string"
-      ],
+      "x": 31,
+      "y": 62,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 9,
-      "latitude": 52,
-      "longitude": 33,
-      "type": [
-        "string"
-      ],
+      "x": 52,
+      "y": 33,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 10,
-      "latitude": 51,
-      "longitude": 21,
-      "type": [
-        "string"
-      ],
+      "x": 51,
+      "y": 21,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 11,
-      "latitude": 42,
-      "longitude": 41,
-      "type": [
-        "string"
-      ],
+      "x": 42,
+      "y": 41,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 12,
-      "latitude": 31,
-      "longitude": 32,
-      "type": [
-        "string"
-      ],
+      "x": 31,
+      "y": 32,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 13,
-      "latitude": 5,
-      "longitude": 25,
-      "type": [
-        "string"
-      ],
+      "x": 5,
+      "y": 25,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 14,
-      "latitude": 12,
-      "longitude": 42,
-      "type": [
-        "string"
-      ],
+      "x": 12,
+      "y": 42,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 15,
-      "latitude": 36,
-      "longitude": 16,
-      "type": [
-        "string"
-      ],
+      "x": 36,
+      "y": 16,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 16,
-      "latitude": 52,
-      "longitude": 41,
-      "type": [
-        "string"
-      ],
+      "x": 52,
+      "y": 41,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 17,
-      "latitude": 27,
-      "longitude": 23,
-      "type": [
-        "string"
-      ],
+      "x": 27,
+      "y": 23,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 18,
-      "latitude": 17,
-      "longitude": 33,
-      "type": [
-        "string"
-      ],
+      "x": 17,
+      "y": 33,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 19,
-      "latitude": 13,
-      "longitude": 13,
-      "type": [
-        "string"
-      ],
+      "x": 13,
+      "y": 13,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 20,
-      "latitude": 57,
-      "longitude": 58,
-      "type": [
-        "string"
-      ],
+      "x": 57,
+      "y": 58,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 21,
-      "latitude": 62,
-      "longitude": 42,
-      "type": [
-        "string"
-      ],
+      "x": 62,
+      "y": 42,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 22,
-      "latitude": 42,
-      "longitude": 57,
-      "type": [
-        "string"
-      ],
+      "x": 42,
+      "y": 57,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 23,
-      "latitude": 16,
-      "longitude": 57,
-      "type": [
-        "string"
-      ],
+      "x": 16,
+      "y": 57,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 24,
-      "latitude": 8,
-      "longitude": 52,
-      "type": [
-        "string"
-      ],
+      "x": 8,
+      "y": 52,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 25,
-      "latitude": 7,
-      "longitude": 38,
-      "type": [
-        "string"
-      ],
+      "x": 7,
+      "y": 38,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 26,
-      "latitude": 27,
-      "longitude": 68,
-      "type": [
-        "string"
-      ],
+      "x": 27,
+      "y": 68,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 27,
-      "latitude": 30,
-      "longitude": 48,
-      "type": [
-        "string"
-      ],
+      "x": 30,
+      "y": 48,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 28,
-      "latitude": 43,
-      "longitude": 67,
-      "type": [
-        "string"
-      ],
+      "x": 43,
+      "y": 67,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 29,
-      "latitude": 58,
-      "longitude": 48,
-      "type": [
-        "string"
-      ],
+      "x": 58,
+      "y": 48,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 30,
-      "latitude": 58,
-      "longitude": 27,
-      "type": [
-        "string"
-      ],
+      "x": 58,
+      "y": 27,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 31,
-      "latitude": 37,
-      "longitude": 69,
-      "type": [
-        "string"
-      ],
+      "x": 37,
+      "y": 69,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 32,
-      "latitude": 48,
-      "longitude": 46,
-      "type": [
-        "string"
-      ],
+      "x": 48,
+      "y": 46,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 33,
-      "latitude": 46,
-      "longitude": 10,
-      "type": [
-        "string"
-      ],
+      "x": 46,
+      "y": 10,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 34,
-      "latitude": 61,
-      "longitude": 33,
-      "type": [
-        "string"
-      ],
+      "x": 61,
+      "y": 33,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 35,
-      "latitude": 62,
-      "longitude": 63,
-      "type": [
-        "string"
-      ],
+      "x": 62,
+      "y": 63,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 36,
-      "latitude": 63,
-      "longitude": 69,
-      "type": [
-        "string"
-      ],
+      "x": 63,
+      "y": 69,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 37,
-      "latitude": 32,
-      "longitude": 22,
-      "type": [
-        "string"
-      ],
+      "x": 32,
+      "y": 22,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 38,
-      "latitude": 45,
-      "longitude": 35,
-      "type": [
-        "string"
-      ],
+      "x": 45,
+      "y": 35,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 39,
-      "latitude": 59,
-      "longitude": 15,
-      "type": [
-        "string"
-      ],
+      "x": 59,
+      "y": 15,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 40,
-      "latitude": 5,
-      "longitude": 6,
-      "type": [
-        "string"
-      ],
+      "x": 5,
+      "y": 6,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 41,
-      "latitude": 10,
-      "longitude": 17,
-      "type": [
-        "string"
-      ],
+      "x": 10,
+      "y": 17,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 42,
-      "latitude": 21,
-      "longitude": 10,
-      "type": [
-        "string"
-      ],
+      "x": 21,
+      "y": 10,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 43,
-      "latitude": 5,
-      "longitude": 64,
-      "type": [
-        "string"
-      ],
+      "x": 5,
+      "y": 64,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 44,
-      "latitude": 30,
-      "longitude": 15,
-      "type": [
-        "string"
-      ],
+      "x": 30,
+      "y": 15,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 45,
-      "latitude": 39,
-      "longitude": 10,
-      "type": [
-        "string"
-      ],
+      "x": 39,
+      "y": 10,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 46,
-      "latitude": 32,
-      "longitude": 39,
-      "type": [
-        "string"
-      ],
+      "x": 32,
+      "y": 39,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 47,
-      "latitude": 25,
-      "longitude": 32,
-      "type": [
-        "string"
-      ],
+      "x": 25,
+      "y": 32,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 48,
-      "latitude": 25,
-      "longitude": 55,
-      "type": [
-        "string"
-      ],
+      "x": 25,
+      "y": 55,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 49,
-      "latitude": 48,
-      "longitude": 28,
-      "type": [
-        "string"
-      ],
+      "x": 48,
+      "y": 28,
+      "type": "CLIENT",
       "vehicleCompatible": []
     },
     {
       "id": 50,
-      "latitude": 56,
-      "longitude": 37,
-      "type": [
-        "string"
-      ],
+      "x": 56,
+      "y": 37,
+      "type": "CLIENT",
       "vehicleCompatible": []
     }
   ],
   "vehicles": [
     {
       "id": "0",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 160,
@@ -482,7 +376,7 @@
     },
     {
       "id": "1",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 160,
@@ -492,7 +386,7 @@
     },
     {
       "id": "2",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 160,
@@ -502,7 +396,7 @@
     },
     {
       "id": "3",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 160,
@@ -512,7 +406,7 @@
     },
     {
       "id": "4",
-      "kind": "string",
+      "kind": null,
       "distributionCenter": 0,
       "monetaryLimit": 0,
       "weightLimit": 160,
@@ -534,10 +428,10 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -605,11 +499,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -625,11 +519,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -645,11 +539,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -665,11 +559,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -685,11 +579,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -705,11 +599,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -725,11 +619,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -745,11 +639,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -765,11 +659,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -785,11 +679,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -805,11 +699,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -825,11 +719,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -845,11 +739,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -865,11 +759,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -885,11 +779,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -905,11 +799,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -925,11 +819,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -945,11 +839,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -965,11 +859,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -985,11 +879,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1005,11 +899,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1025,11 +919,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1045,11 +939,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1065,11 +959,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1085,11 +979,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1105,11 +999,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1125,11 +1019,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1145,11 +1039,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1165,11 +1059,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1185,11 +1079,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1205,11 +1099,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1225,11 +1119,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1245,11 +1139,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1265,11 +1159,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1285,11 +1179,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1305,11 +1199,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1325,11 +1219,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1345,11 +1239,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1365,11 +1259,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1385,11 +1279,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1405,11 +1299,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1425,11 +1319,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1445,11 +1339,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1465,11 +1359,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1485,11 +1379,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     },
@@ -1505,11 +1399,11 @@
       "containers": 0,
       "positivation": 0,
       "priority": true,
-      "vehicleFixed": "string",
+      "vehicleFixed": null,
       "frequency": {
-        "type": "string",
+        "type": null,
         "daysOfWeekFixed": [
-          "string"
+          null
         ]
       }
     }
