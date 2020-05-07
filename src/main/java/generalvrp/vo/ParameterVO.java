@@ -8,5 +8,6 @@ public class ParameterVO {
 	public boolean isOpenRoute;
 	public boolean useTimeWindows;
 	public boolean isMultiperiod;
+	public int numberOfDays;
 
 }

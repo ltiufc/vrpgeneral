@@ -4,7 +4,7 @@ import java.util.List;
 
 public class FrequencyVO {
 
-	public String type;
+	public TypeFrequencyEnum type;
 	public List<String> daysOfWeekFixed;
 	
 }
