@@ -126,9 +126,7 @@
       "id": 13,
       "x": 5,
       "y": 35,
-      "type": [
-        null
-      ],
+      "type": "CLIENT",
       "vehicleCompatible": [],
       "beginOperation": "Jan 1, 2020 2:32:00 AM",
       "endOperation": "Jan 1, 2020 2:42:00 AM"
