@@ -4,7 +4,7 @@
     "useTimeWindows": false,
     "isMultiperiod": false,
     "numberOfDays": 1,
-    "routeLenghtLimit": 650,
+    "routeLenghLimit": 650,
     "distanceTotal": 5646.46
   },
   "places": [
