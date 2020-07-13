@@ -5,21 +5,21 @@ import java.util.List;
 
 public class OrderVO {
 
-	public int id;
-	public int from;
-	public int to;
+	public Integer id;
+	public Integer from;
+	public Integer to;
 	public List<String> vehicleCompatible;
 	public Date beginTimeWindow;
 	public Date endTimeWindow;
-	public double serviceTime;
-	public double monetaryValue;
-	public double weight;
-	public double volume;
-	public double cubage;
-	public double containers;
+	public Double serviceTime;
+	public Double monetaryValue;
+	public Double weight;
+	public Double volume;
+	public Double cubage;
+	public Double containers;
 	public String type;
-	public int positivation;
-	public boolean priority;
+	public Integer positivation;
+	public Boolean priority;
 	public String vehicleFixed;
 	public FrequencyVO frequency;
 

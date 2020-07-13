@@ -5,9 +5,9 @@ import java.util.List;
 
 public class PlaceVO {
 
-	public int id;
-	public double x;
-	public double y;
+	public Integer id;
+	public Double x;
+	public Double y;
 	public TypePlaceEnum type;
 	public List<String> vehicleCompatible;
 	public Date beginOperation;

@@ -2,10 +2,10 @@ package generalvrp.vo;
 
 public class OperationVO {
 
-	private double start;
-	private double end;
-	private double startSaturday;
-	private double endSaturday;
+	private Double start;
+	private Double end;
+	private Double startSaturday;
+	private Double endSaturday;
 
 	public OperationVO() {
 		super();
