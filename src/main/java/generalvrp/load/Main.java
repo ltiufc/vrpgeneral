@@ -8,7 +8,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		LoadInstance loadInstance = new LoadInstance();
 		
-		loadInstance.recInstances();
+		loadInstance.recInstances("target/classes/data/solomon/SolomonInstanceC101.json");
 		
 		
 	}

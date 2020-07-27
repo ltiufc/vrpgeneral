@@ -14,10 +14,8 @@ public class LoadInstance {
 
 	GeneralInstanceVO generalInstance;
 
-	public void recInstances() throws IOException {
+	public void recInstances(String fileName) throws IOException {
 
-
-		String fileName = "./src/main/resources/data/testeSolomon.json";
 		String json = String.join(" ", Files.readAllLines(Paths.get(fileName), StandardCharsets.UTF_8));
 
 		// Leitura do arquivo json e Transformação em Objeto.
