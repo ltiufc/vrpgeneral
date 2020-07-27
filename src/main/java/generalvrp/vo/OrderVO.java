@@ -17,6 +17,15 @@ public class OrderVO {
 	public Double volume;
 	public Double cubage;
 	public Double containers;
+	public AbstractRealDistribution normal;
+	public AbstractRealDistribution logNormal;
+	public Double desviation;
+	public Double logDesviation;
+	public Double mean;
+	public Double logMean;
+	public Double uniform;
+	public Double min;
+	public Double max;
 	public String type;
 	public Integer positivation;
 	public Boolean priority;

@@ -15,21 +15,19 @@ public class Generator {
 	GeneralInstanceVO generalInstance;
 
 	public void recInstances() throws IOException {
-
 		Gson gson = new Gson();
 
-		// String fileName = "./src/main/resources/data/testeSolomon.json";
-		String fileName = "/home/felipelima/Documentos/Faculdade/TCC/Instâncias/Backup Instancias/base instancia de cordeau.json";
+		String fileName = "./src/main/resources/data/testeEscrita.json";
+		/*String fileName = "/home/felipelima/Documentos/Faculdade/TCC/Instâncias/Backup Instancias/testeEscrita.json";
 
-		String json = String.join(" ", Files.readAllLines(Paths.get(fileName), StandardCharsets.UTF_8));
-		System.out.println(json);
+		
+		String saidaInstanciaGeral = gson.toJson(generalInstance);*/
+		AbstractRealDistribution  x = new NormalDistribution(0, 1);
 
-		// Leitura do arquivo json e Transformação em Objeto.
-		generalInstance = new Gson().fromJson(json, GeneralInstanceVO.class);
-
-		String saidaInstanciaGeral = gson.toJson(generalInstance);
+		String saidaInstanciaGeral = gson.toJson(x);
 		System.out.println(saidaInstanciaGeral);
-
+		
+	
 		// Escrita do arquivo no formato json
 		// FileWriter arq = new
 		// FileWriter("/home/felipelima/eclipse-workspace/tccfelipe/TCCFelipe/src/main/resources/data/solomon/SolomonInstanceRC105.json");
@@ -39,5 +37,6 @@ public class Generator {
 
 		arq.write(saidaInstanciaGeral);
 		arq.close();
+	
 	}
 }
