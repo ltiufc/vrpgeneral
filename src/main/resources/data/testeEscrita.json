@@ -1,0 +1,4303 @@
+{
+  "parameters": {
+    "isOpenRoute": false,
+    "useTimeWindows": false,
+    "isMultiperiod": false
+  },
+  "places": [
+    {
+      "id": 0,
+      "x": 50,
+      "y": 50,
+      "type": "CD",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:00:00 AM",
+      "endOperation": "Jan 1, 2020 8:36:00 PM"
+    },
+    {
+      "id": 1,
+      "x": 5,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 3:12:00 PM",
+      "endOperation": "Jan 1, 2020 4:07:00 PM"
+    },
+    {
+      "id": 2,
+      "x": 15,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:45:00 PM",
+      "endOperation": "Jan 1, 2020 2:30:00 PM"
+    },
+    {
+      "id": 3,
+      "x": 25,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:05:00 AM",
+      "endOperation": "Jan 1, 2020 2:26:00 AM"
+    },
+    {
+      "id": 4,
+      "x": 35,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:07:00 PM",
+      "endOperation": "Jan 1, 2020 1:20:00 PM"
+    },
+    {
+      "id": 5,
+      "x": 45,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:15:00 AM",
+      "endOperation": "Jan 1, 2020 1:07:00 AM"
+    },
+    {
+      "id": 6,
+      "x": 55,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 10:21:00 AM",
+      "endOperation": "Jan 1, 2020 11:42:00 AM"
+    },
+    {
+      "id": 7,
+      "x": 65,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:50:00 AM",
+      "endOperation": "Jan 1, 2020 3:45:00 AM"
+    },
+    {
+      "id": 8,
+      "x": 75,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 4:15:00 AM",
+      "endOperation": "Jan 1, 2020 5:24:00 AM"
+    },
+    {
+      "id": 9,
+      "x": 85,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 8:54:00 AM",
+      "endOperation": "Jan 1, 2020 10:50:00 AM"
+    },
+    {
+      "id": 10,
+      "x": 95,
+      "y": 5,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 5:57:00 AM",
+      "endOperation": "Jan 1, 2020 6:50:00 AM"
+    },
+    {
+      "id": 11,
+      "x": 5,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 7:28:00 AM",
+      "endOperation": "Jan 1, 2020 8:25:00 AM"
+    },
+    {
+      "id": 12,
+      "x": 15,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 10:52:00 AM",
+      "endOperation": "Jan 1, 2020 12:01:00 PM"
+    },
+    {
+      "id": 13,
+      "x": 25,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:30:00 AM",
+      "endOperation": "Jan 1, 2020 1:32:00 AM"
+    },
+    {
+      "id": 14,
+      "x": 35,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 9:27:00 AM",
+      "endOperation": "Jan 1, 2020 10:20:00 AM"
+    },
+    {
+      "id": 15,
+      "x": 45,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 6:24:00 AM",
+      "endOperation": "Jan 1, 2020 7:09:00 AM"
+    },
+    {
+      "id": 16,
+      "x": 55,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 7:55:00 AM",
+      "endOperation": "Jan 1, 2020 8:48:00 AM"
+    },
+    {
+      "id": 17,
+      "x": 65,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:39:00 AM",
+      "endOperation": "Jan 1, 2020 2:28:00 AM"
+    },
+    {
+      "id": 18,
+      "x": 75,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:59:00 AM",
+      "endOperation": "Jan 1, 2020 4:14:00 AM"
+    },
+    {
+      "id": 19,
+      "x": 85,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 4:38:00 AM",
+      "endOperation": "Jan 1, 2020 5:45:00 AM"
+    },
+    {
+      "id": 20,
+      "x": 95,
+      "y": 15,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:10:00 AM",
+      "endOperation": "Jan 1, 2020 1:13:00 AM"
+    },
+    {
+      "id": 21,
+      "x": 5,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 3:14:00 PM",
+      "endOperation": "Jan 1, 2020 4:05:00 PM"
+    },
+    {
+      "id": 22,
+      "x": 15,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:32:00 PM",
+      "endOperation": "Jan 1, 2020 2:43:00 PM"
+    },
+    {
+      "id": 23,
+      "x": 25,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 12:12:00 PM",
+      "endOperation": "Jan 1, 2020 12:57:00 PM"
+    },
+    {
+      "id": 24,
+      "x": 35,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 1:05:00 AM",
+      "endOperation": "Jan 1, 2020 2:24:00 AM"
+    },
+    {
+      "id": 25,
+      "x": 45,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 26,
+      "x": 55,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 27,
+      "x": 65,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 28,
+      "x": 75,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 29,
+      "x": 85,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 30,
+      "x": 95,
+      "y": 25,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 31,
+      "x": 5,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 32,
+      "x": 15,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 33,
+      "x": 25,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 34,
+      "x": 35,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 35,
+      "x": 45,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 36,
+      "x": 55,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 37,
+      "x": 65,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 38,
+      "x": 75,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 39,
+      "x": 85,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 40,
+      "x": 95,
+      "y": 35,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 41,
+      "x": 5,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 42,
+      "x": 15,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 43,
+      "x": 25,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 44,
+      "x": 35,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 45,
+      "x": 45,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 46,
+      "x": 55,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 47,
+      "x": 65,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 48,
+      "x": 75,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 49,
+      "x": 85,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 50,
+      "x": 95,
+      "y": 45,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 51,
+      "x": 5,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 52,
+      "x": 15,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 53,
+      "x": 25,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 54,
+      "x": 35,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 55,
+      "x": 45,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 56,
+      "x": 55,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 57,
+      "x": 65,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 58,
+      "x": 75,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 59,
+      "x": 85,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 60,
+      "x": 95,
+      "y": 55,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 61,
+      "x": 5,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 62,
+      "x": 15,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 63,
+      "x": 25,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 64,
+      "x": 35,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 65,
+      "x": 45,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 66,
+      "x": 55,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 67,
+      "x": 65,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 68,
+      "x": 75,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 69,
+      "x": 85,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 70,
+      "x": 95,
+      "y": 65,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 71,
+      "x": 5,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 72,
+      "x": 15,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 73,
+      "x": 25,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 74,
+      "x": 35,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 75,
+      "x": 45,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 76,
+      "x": 55,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 77,
+      "x": 65,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 78,
+      "x": 75,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 79,
+      "x": 85,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 80,
+      "x": 95,
+      "y": 75,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 81,
+      "x": 5,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 82,
+      "x": 15,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 83,
+      "x": 25,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 84,
+      "x": 35,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 85,
+      "x": 45,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 86,
+      "x": 55,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 87,
+      "x": 65,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 88,
+      "x": 75,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 89,
+      "x": 85,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 90,
+      "x": 95,
+      "y": 85,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 91,
+      "x": 5,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 92,
+      "x": 15,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 93,
+      "x": 25,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 94,
+      "x": 35,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 95,
+      "x": 45,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 96,
+      "x": 55,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 97,
+      "x": 65,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 98,
+      "x": 75,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 99,
+      "x": 85,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    },
+    {
+      "id": 100,
+      "x": 95,
+      "y": 95,
+      "type": "CLIENT",
+      "vehicleCompatible": [],
+      "beginOperation": "Jan 1, 2020 2:49:00 AM",
+      "endOperation": "Jan 1, 2020 4:04:00 AM"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "0",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "1",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "2",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "3",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "4",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "5",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "6",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "7",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "8",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "9",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "10",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "11",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "12",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "13",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "14",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "15",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "16",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "17",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "18",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "19",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "20",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "21",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "22",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "23",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    },
+    {
+      "id": "24",
+      "kind": null,
+      "distributionCenter": 0,
+      "monetaryLimit": 0,
+      "weightLimit": 100,
+      "volumeLimit": 0,
+      "cubageLimit": 0,
+      "containersLimit": 0
+    }
+  ],
+  "orders": [
+    {
+      "id": 0,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 0,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "positivation": 0,
+      "type": "pickup",
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 73,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 77,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 86,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 87,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 90,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 91,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 93,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 94,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 95,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 96,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 30,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 99,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "pickup",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    },
+    {
+      "id": 100,
+      "from": 0,
+      "to": 0,
+      "vehicleCompatible": [],
+      "serviceTime": 0,
+      "monetaryValue": 0,
+      "weight": 10,
+      "volume": 0,
+      "cubage": 0,
+      "containers": 0,
+      "normal": null,
+      "lognormal": null,
+      "desviation": 1,
+      "logDesviation": 1,
+      "mean": 0,
+      "logMean": 0,
+      "uniform": 0,
+      "min": 0,
+      "max": 0,
+      "type": "delivery",
+      "positivation": 0,
+      "priority": true,
+      "vehicleFixed": null,
+      "frequency": {
+        "type": null,
+        "daysOfWeekFixed": [
+          null
+        ]
+      }
+    }
+  ]
+}
