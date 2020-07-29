@@ -7,7 +7,7 @@ import org.apache.commons.math3.distribution.AbstractRealDistribution;
 
 import generalvrp.vo.FrequencyVO;
 
-public class Order<T extends AbstractRealDistribution> {
+public class Order {
 
 	public Integer id;
 	public Integer from;
@@ -16,11 +16,11 @@ public class Order<T extends AbstractRealDistribution> {
 	public Date beginTimeWindow;
 	public Date endTimeWindow;
 	public Double serviceTime;
-	public T monetaryValue;
-	public T weight;
-	public T volume;
-	public T cubage;
-	public T containers;
+	public Distribution monetaryValue;
+	public Distribution weight;
+	public Distribution volume;
+	public Distribution cubage;
+	public Distribution containers;
 	public Integer positivation;
 	public Boolean priority;
 	public String vehicleFixed;
