@@ -8,10 +8,20 @@ import generalvrp.vo.VehicleVO;
 
 public class GeneralInstance {
 
-	public ParameterVO parameters;
-	public List<PlaceVO> places;
-	public List<VehicleVO> vehicles;
+	public Parameter parameters;
+	public List<Place> places;
+	public List<Vehicle> vehicles;
 	public List<Order> orders;
+	
+	public GeneralInstance(Parameter parameters, List<Place> places, List<Vehicle> vehicles, List<Order> orders) {
+		super();
+		this.parameters = parameters;
+		this.places = places;
+		this.vehicles = vehicles;
+		this.orders = orders;
+	}
+	
+	
 //	
 //	@Override
 //	public String toString() {
