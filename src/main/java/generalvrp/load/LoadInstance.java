@@ -78,15 +78,15 @@ public class LoadInstance {
 			if (!order.weight.type.equals("NONSTOCATISC")) {
 				switch (order.weight.type) {
 				case NORMAL:
-					newOrder.weight.distribuction = new NormalDistribution(newOrder.weight.val1, newOrder.weight.val2);
+					newOrder.weight.distribution = new NormalDistribution(newOrder.weight.val1, newOrder.weight.val2);
 					break;
 				case LOGNORMAL:
-					newOrder.weight.distribuction = new LogNormalDistribution(newOrder.weight.val1,
+					newOrder.weight.distribution = new LogNormalDistribution(newOrder.weight.val1,
 							newOrder.weight.val2);
 
 					break;
 				case UNIFORM:
-					newOrder.weight.distribuction = new UniformRealDistribution(newOrder.weight.val1,
+					newOrder.weight.distribution = new UniformRealDistribution(newOrder.weight.val1,
 							newOrder.weight.val2);
 
 					break;
@@ -102,15 +102,15 @@ public class LoadInstance {
 			if (!order.cubage.type.equals("NONSTOCATISC")) {
 				switch (order.cubage.type) {
 				case NORMAL:
-					newOrder.cubage.distribuction = new NormalDistribution(newOrder.cubage.val1, newOrder.cubage.val2);
+					newOrder.cubage.distribution = new NormalDistribution(newOrder.cubage.val1, newOrder.cubage.val2);
 					break;
 				case LOGNORMAL:
-					newOrder.cubage.distribuction = new LogNormalDistribution(newOrder.cubage.val1,
+					newOrder.cubage.distribution = new LogNormalDistribution(newOrder.cubage.val1,
 							newOrder.cubage.val2);
 
 					break;
 				case UNIFORM:
-					newOrder.cubage.distribuction = new UniformRealDistribution(newOrder.cubage.val1,
+					newOrder.cubage.distribution = new UniformRealDistribution(newOrder.cubage.val1,
 							newOrder.cubage.val2);
 
 					break;
@@ -126,15 +126,15 @@ public class LoadInstance {
 			if (!order.volume.type.equals("NONSTOCATISC")) {
 				switch (order.volume.type) {
 				case NORMAL:
-					newOrder.volume.distribuction = new NormalDistribution(newOrder.volume.val1, newOrder.volume.val2);
+					newOrder.volume.distribution = new NormalDistribution(newOrder.volume.val1, newOrder.volume.val2);
 					break;
 				case LOGNORMAL:
-					newOrder.volume.distribuction = new LogNormalDistribution(newOrder.volume.val1,
+					newOrder.volume.distribution = new LogNormalDistribution(newOrder.volume.val1,
 							newOrder.volume.val2);
 
 					break;
 				case UNIFORM:
-					newOrder.volume.distribuction = new UniformRealDistribution(newOrder.volume.val1,
+					newOrder.volume.distribution = new UniformRealDistribution(newOrder.volume.val1,
 							newOrder.volume.val2);
 
 					break;
@@ -150,16 +150,16 @@ public class LoadInstance {
 			if (!order.containers.type.equals("NONSTOCATISC")) {
 				switch (order.containers.type) {
 				case NORMAL:
-					newOrder.containers.distribuction = new NormalDistribution(newOrder.containers.val1,
+					newOrder.containers.distribution = new NormalDistribution(newOrder.containers.val1,
 							newOrder.containers.val2);
 					break;
 				case LOGNORMAL:
-					newOrder.containers.distribuction = new LogNormalDistribution(newOrder.containers.val1,
+					newOrder.containers.distribution = new LogNormalDistribution(newOrder.containers.val1,
 							newOrder.containers.val2);
 
 					break;
 				case UNIFORM:
-					newOrder.containers.distribuction = new UniformRealDistribution(newOrder.containers.val1,
+					newOrder.containers.distribution = new UniformRealDistribution(newOrder.containers.val1,
 							newOrder.containers.val2);
 
 					break;
@@ -175,16 +175,16 @@ public class LoadInstance {
 			if (!order.monetaryValue.type.equals("NONSTOCATISC")) {
 				switch (order.monetaryValue.type) {
 				case NORMAL:
-					newOrder.monetaryValue.distribuction = new NormalDistribution(newOrder.monetaryValue.val1,
+					newOrder.monetaryValue.distribution = new NormalDistribution(newOrder.monetaryValue.val1,
 							newOrder.monetaryValue.val2);
 					break;
 				case LOGNORMAL:
-					newOrder.monetaryValue.distribuction = new LogNormalDistribution(newOrder.monetaryValue.val1,
+					newOrder.monetaryValue.distribution = new LogNormalDistribution(newOrder.monetaryValue.val1,
 							newOrder.monetaryValue.val2);
 
 					break;
 				case UNIFORM:
-					newOrder.monetaryValue.distribuction = new UniformRealDistribution(newOrder.monetaryValue.val1,
+					newOrder.monetaryValue.distribution = new UniformRealDistribution(newOrder.monetaryValue.val1,
 							newOrder.monetaryValue.val2);
 
 					break;
