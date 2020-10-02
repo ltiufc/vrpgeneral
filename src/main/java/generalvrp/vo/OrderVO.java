@@ -12,11 +12,16 @@ public class OrderVO {
 	public Date beginTimeWindow;
 	public Date endTimeWindow;
 	public Double serviceTime;
-	public DistributionVO monetaryValue;
+	/*public DistributionVO monetaryValue;
 	public DistributionVO weight;
 	public DistributionVO volume;
 	public DistributionVO cubage;
-	public DistributionVO containers;
+	public DistributionVO containers;*/
+	public Double monetaryValue;
+	public Double weight;
+	public Double volume;
+	public Double cubage;
+	public Double containers;
 	public Integer positivation;
 	public Boolean priority;
 	public String vehicleFixed;
